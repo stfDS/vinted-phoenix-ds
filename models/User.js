@@ -4,12 +4,10 @@ const User = mongoose.model("User", {
   email: String,
   account: {
     username: { type: String, required: true },
-    avatar: Object, // nous verrons plus tard comment uploader une image
+    avatar: Object,
   },
   newsletter: Boolean,
-  token: String,
-  hash: String,
-  salt: String,
+  password: String,
 });
 
 module.exports = User;

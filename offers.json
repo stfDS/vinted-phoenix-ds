@@ -1,0 +1,4286 @@
+[
+  {
+    "_id": {
+      "$oid": "65a5ab0a1475db473f8d91bf"
+    },
+    "product_name": "Vestido",
+    "product_description": "Vestido camisero estampado, tegido fluido satinado, talla S.",
+    "product_price": 25,
+    "product_details": [
+      {
+        "MARQUE": "STRADIVARIUS"
+      },
+      {
+        "ÉTAT": "NEUF AVEC ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "MULTICOLORE"
+      },
+      {
+        "EMPLACEMENT": " ANDALUCÍA, ESPAÑA"
+      }
+    ],
+    "product_image": {
+      "asset_id": "c0b1650e141e682bbaf0eda5f9fa2711",
+      "public_id": "vinted/default-offers/mvy6plmwph4icbrgtrih",
+      "version": 1705356042,
+      "version_id": "44bf509b7b520233db161dcb158bbe96",
+      "signature": "83696481389ffcf02288874b64ee909702bb8ab7",
+      "width": 321,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:00:42Z",
+      "tags": [],
+      "bytes": 82936,
+      "type": "upload",
+      "etag": "b4cd79f0e0466d2b5e1da656e07763a1",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356042/vinted/default-offers/mvy6plmwph4icbrgtrih.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356042/vinted/default-offers/mvy6plmwph4icbrgtrih.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "svklxs1elc7nx1j16c5w",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "8206c8733d63d4430405d4c6c5db4987",
+        "public_id": "vinted/default-offers/f3kpylvhbsdjimzurgkp",
+        "version": 1705356042,
+        "version_id": "44bf509b7b520233db161dcb158bbe96",
+        "signature": "6149a41b2f11fcb74849ec6a41d9dcf8a64deb81",
+        "width": 321,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:42Z",
+        "tags": [],
+        "bytes": 82936,
+        "type": "upload",
+        "etag": "b4cd79f0e0466d2b5e1da656e07763a1",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356042/vinted/default-offers/f3kpylvhbsdjimzurgkp.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356042/vinted/default-offers/f3kpylvhbsdjimzurgkp.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ikjksrhfm5fvib8fqyf7",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ba"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:00:42.575Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab0c1475db473f8d91c1"
+    },
+    "product_name": "Robe H&M 4/6 ans 🌟 Vestido H&M 4/6 años",
+    "product_description": "vestido de manga larga y pequeña falda de vuelo Color azul marino con dibujos frontales Marca H&M Talla 4/6 años ( 110 - 116 cm )apenas usado como nuevo",
+    "product_price": 5.9,
+    "product_details": [
+      {
+        "MARQUE": "H&M"
+      },
+      {
+        "TAILLE": "6 ANS / 110-116 CM"
+      },
+      {
+        "ÉTAT": "NEUF SANS ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "MARINE"
+      },
+      {
+        "EMPLACEMENT": "ESPAÑA"
+      },
+      {
+        "MODES DE PAIEMENT": "CARTE BANCAIRE, PAYPAL"
+      }
+    ],
+    "product_image": {
+      "asset_id": "3ab05d14d5732f2908708ff7ad915c6c",
+      "public_id": "vinted/default-offers/xhcdiyzq8hoxdhr0pmjo",
+      "version": 1705356044,
+      "version_id": "49e8327442bfe218526c03ce018f64a6",
+      "signature": "edfce9354f801e5a97d587c0b63ecd2615c2a204",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:00:44Z",
+      "tags": [],
+      "bytes": 179645,
+      "type": "upload",
+      "etag": "88091d8e253dd790f6d39208c98b9e8f",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356044/vinted/default-offers/xhcdiyzq8hoxdhr0pmjo.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356044/vinted/default-offers/xhcdiyzq8hoxdhr0pmjo.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "bveddyiobxsaiupiurbj",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "b0409e0f4a2b4e69c89c6f221ff1b3b8",
+        "public_id": "vinted/default-offers/g9gp135gg9qwnsexzkuq",
+        "version": 1705356045,
+        "version_id": "6b1fcd31b8ed181e3ca767e273196132",
+        "signature": "26d810a553f387df699683c4ed4884d0fb53973d",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:45Z",
+        "tags": [],
+        "bytes": 179645,
+        "type": "upload",
+        "etag": "88091d8e253dd790f6d39208c98b9e8f",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356045/vinted/default-offers/g9gp135gg9qwnsexzkuq.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356045/vinted/default-offers/g9gp135gg9qwnsexzkuq.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "srqvho11psrx2ykqfwpw",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c8"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:00:44.898Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab0f1475db473f8d91c3"
+    },
+    "product_name": "Jersey cuello romantico Springfield",
+    "product_description": "Jersey de punto suave de Springfield. Color beige. Cuello bebe o romántico. Talla M.",
+    "product_price": 28,
+    "product_details": [
+      {
+        "MARQUE": "SPRINGFIELD "
+      },
+      {
+        "TAILLE": "M / 38 / 10"
+      },
+      {
+        "ÉTAT": "NEUF AVEC ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "BEIGE"
+      },
+      {
+        "EMPLACEMENT": "MALAGA, ESPAÑA"
+      }
+    ],
+    "product_image": {
+      "asset_id": "8d9aab373c50335f4d93007e365fa865",
+      "public_id": "vinted/default-offers/n7d8dmasizwsm56a5hvd",
+      "version": 1705356046,
+      "version_id": "a0fd95e6e099eb99ac8533f65ca744bf",
+      "signature": "3dd059e4541bf83e3b6899fc71332a6c2332de75",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:00:46Z",
+      "tags": [],
+      "bytes": 115731,
+      "type": "upload",
+      "etag": "1dcaeaf4fb66c4fc37b393d1918afa7f",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356046/vinted/default-offers/n7d8dmasizwsm56a5hvd.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356046/vinted/default-offers/n7d8dmasizwsm56a5hvd.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "ciqlt7lr8hksiel9gyfe",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "6e52f729704c77c90153ca78df9d2350",
+        "public_id": "vinted/default-offers/bnwufqn9ojuntcr3do9b",
+        "version": 1705356047,
+        "version_id": "e46591763a09dff83f0fd260b812b15e",
+        "signature": "835b251e6f1d7fb69c5f9b6e2768750a4534de5f",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:47Z",
+        "tags": [],
+        "bytes": 115731,
+        "type": "upload",
+        "etag": "1dcaeaf4fb66c4fc37b393d1918afa7f",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356047/vinted/default-offers/bnwufqn9ojuntcr3do9b.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356047/vinted/default-offers/bnwufqn9ojuntcr3do9b.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "w57ggosz2ftnhramtj6o",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c8"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:00:47.013Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab101475db473f8d91c5"
+    },
+    "product_name": "👚Beau pull gris avec bandes sur les bras / Jennyfer / Taille 34 36 38 40 42🌼",
+    "product_description": "Tient chaud, agréable à porter. Bandes moutardes, blanches et bleus sur les épaules",
+    "product_price": 10,
+    "product_details": [
+      {
+        "MARQUE": "JENNYFER"
+      },
+      {
+        "TAILLE": "M / 38 / 10"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "GRIS, JAUNE"
+      },
+      {
+        "EMPLACEMENT": "TRIGNAC, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "ada6b9de80b2db0e34369db4d8187b81",
+      "public_id": "vinted/default-offers/dlj6iov0qdflyhrukxoc",
+      "version": 1705356048,
+      "version_id": "9761d8db2a87fd51e8056945ec77bd5c",
+      "signature": "1bf8c3233c27ea89f31af85d7b1989efc80598ca",
+      "width": 608,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:00:48Z",
+      "tags": [],
+      "bytes": 93087,
+      "type": "upload",
+      "etag": "0cfc6d87707b658e33c508ccd359f73f",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356048/vinted/default-offers/dlj6iov0qdflyhrukxoc.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356048/vinted/default-offers/dlj6iov0qdflyhrukxoc.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "ib4uo3xpio8avpxigq2r",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "b8778840969ff9484c32fe87c9d3a3f1",
+        "public_id": "vinted/default-offers/yn0pdsqyyrhkemtcoslj",
+        "version": 1705356049,
+        "version_id": "9731821dde05e1ccdf779ef802f5013c",
+        "signature": "5b14ceb2efedf54fd00dd43d9ff17e0f14e74b06",
+        "width": 608,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:49Z",
+        "tags": [],
+        "bytes": 93087,
+        "type": "upload",
+        "etag": "0cfc6d87707b658e33c508ccd359f73f",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356049/vinted/default-offers/yn0pdsqyyrhkemtcoslj.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356049/vinted/default-offers/yn0pdsqyyrhkemtcoslj.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "mxx80qrjysnxyj3zx1pm",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "2fe44cb171654c658d75d9770250a148",
+        "public_id": "vinted/default-offers/gw5p37kxu9eie6menilw",
+        "version": 1705356049,
+        "version_id": "9731821dde05e1ccdf779ef802f5013c",
+        "signature": "cfd52e75e08c378199a32cf009c955886136bee8",
+        "width": 451,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:49Z",
+        "tags": [],
+        "bytes": 68948,
+        "type": "upload",
+        "etag": "68623c0efa1a6479304d6029ce8fe46c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356049/vinted/default-offers/gw5p37kxu9eie6menilw.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356049/vinted/default-offers/gw5p37kxu9eie6menilw.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "p9bbf6p1kwbt1vc6wi6z",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ba"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:00:48.689Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab131475db473f8d91c7"
+    },
+    "product_name": "Escarpin noir",
+    "product_description": "Escarpin femme",
+    "product_price": 15,
+    "product_details": [
+      {
+        "MARQUE": "TULIPANO"
+      },
+      {
+        "TAILLE": "37"
+      },
+      {
+        "ÉTAT": "NEUF AVEC ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "NOIR"
+      },
+      {
+        "EMPLACEMENT": "BELGIQUE / BELGIË"
+      },
+      {
+        "MODES DE PAIEMENT": "CARTE BANCAIRE, PAYPAL"
+      }
+    ],
+    "product_image": {
+      "asset_id": "d43a18060deff08e54d34806b8b2cb84",
+      "public_id": "vinted/default-offers/xbnhdbv4dsijcxjqiz0g",
+      "version": 1705356050,
+      "version_id": "ccc24e59c0f8c1e5182c49649bf04a43",
+      "signature": "cec31f6a8f43f14c7f3c86b1e04c49df56f747b4",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:00:50Z",
+      "tags": [],
+      "bytes": 71227,
+      "type": "upload",
+      "etag": "eb41e031093a7f5a4ca9444ff1b17654",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356050/vinted/default-offers/xbnhdbv4dsijcxjqiz0g.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356050/vinted/default-offers/xbnhdbv4dsijcxjqiz0g.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "ldchgd680wdjc3dfgexn",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "bb3cb4d9dcecb10618669cf2913d5632",
+        "public_id": "vinted/default-offers/zfkno0y6okdmy2diyqed",
+        "version": 1705356051,
+        "version_id": "e7d2b437370ae04e137424f6a2913a73",
+        "signature": "004d5a1e982b9430c3e3e8e6f6b8946bbf8cbe62",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:51Z",
+        "tags": [],
+        "bytes": 71227,
+        "type": "upload",
+        "etag": "eb41e031093a7f5a4ca9444ff1b17654",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356051/vinted/default-offers/zfkno0y6okdmy2diyqed.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356051/vinted/default-offers/zfkno0y6okdmy2diyqed.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "nwxkdqnvxfmx1muffrub",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "d9d7a963f2e0a45f86290a0a7761d36f",
+        "public_id": "vinted/default-offers/bso8zcxkedyruhnlvbhk",
+        "version": 1705356052,
+        "version_id": "35e404bcd29cf5959c6af25aa4ea3747",
+        "signature": "4a5b424ccf67361d7013ee584603fcd84fc77435",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:52Z",
+        "tags": [],
+        "bytes": 70734,
+        "type": "upload",
+        "etag": "ee875a196acce19a380e872f05d1a8c9",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356052/vinted/default-offers/bso8zcxkedyruhnlvbhk.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356052/vinted/default-offers/bso8zcxkedyruhnlvbhk.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "abswzsarx8arlddmo4bz",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "11c815a7fbfe791b9fc8a5d600eb369c",
+        "public_id": "vinted/default-offers/tjsod4ggc8xsv34d5qng",
+        "version": 1705356053,
+        "version_id": "1cef6a7e42f4502f81646d22cb2bb5d1",
+        "signature": "db69b7ba4bad5fcb3f8d17b195a700b08903dabd",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:53Z",
+        "tags": [],
+        "bytes": 63494,
+        "type": "upload",
+        "etag": "36f3df6ce17689e1c74d426513385a22",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356053/vinted/default-offers/tjsod4ggc8xsv34d5qng.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356053/vinted/default-offers/tjsod4ggc8xsv34d5qng.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "sosavux4983t29difjrc",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ce"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:00:51.532Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab161475db473f8d91c9"
+    },
+    "product_name": "Longue doudoune beige à capuche",
+    "product_description": "Porté qu’une seule fois, bien chaude.",
+    "product_price": 25,
+    "product_details": [
+      {
+        "MARQUE": "H&M"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "NEUF SANS ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "MARRON, BEIGE"
+      },
+      {
+        "EMPLACEMENT": "GIGEAN, FRANCE"
+      },
+      {
+        "MODES DE PAIEMENT": "CARTE BANCAIRE, PAYPAL"
+      }
+    ],
+    "product_image": {
+      "asset_id": "5e7b9bee4acb6fec48a1a408fd02e640",
+      "public_id": "vinted/default-offers/kpxhdkdqcygzmriutryw",
+      "version": 1705356054,
+      "version_id": "66297952e9f5d96e55441b3d75266cc8",
+      "signature": "0db8ec6101cae68eff2bd5ab3f180d2d943dccd0",
+      "width": 450,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:00:54Z",
+      "tags": [],
+      "bytes": 64017,
+      "type": "upload",
+      "etag": "51aed8ea9ed7120d6bf418f731b37d31",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356054/vinted/default-offers/kpxhdkdqcygzmriutryw.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356054/vinted/default-offers/kpxhdkdqcygzmriutryw.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "chzoz0statzepjff5vsg",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "bd56077e58341627dc1d0edd9f2f73dc",
+        "public_id": "vinted/default-offers/v7kbayohvksxmha0kngg",
+        "version": 1705356055,
+        "version_id": "370c9e314b75e80fb35d2bc4d2b9ac29",
+        "signature": "6dd2aecb4acf2013b20cbe9e1a5063d9e483ad9d",
+        "width": 450,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:55Z",
+        "tags": [],
+        "bytes": 64017,
+        "type": "upload",
+        "etag": "51aed8ea9ed7120d6bf418f731b37d31",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356055/vinted/default-offers/v7kbayohvksxmha0kngg.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356055/vinted/default-offers/v7kbayohvksxmha0kngg.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "k9jdnahkywsuvpced0wm",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c108e22028573ea9edd60d260d11c12b",
+        "public_id": "vinted/default-offers/vyus3nxkkwh9uqfh2pld",
+        "version": 1705356056,
+        "version_id": "113dc2bb385a890b34c2981e8b6dd809",
+        "signature": "1fbc4400166c1ab682c54f9f4cb294ab67a48d92",
+        "width": 450,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:56Z",
+        "tags": [],
+        "bytes": 84021,
+        "type": "upload",
+        "etag": "7caeb075e1bfdf13b21ca5d387dfbcee",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356056/vinted/default-offers/vyus3nxkkwh9uqfh2pld.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356056/vinted/default-offers/vyus3nxkkwh9uqfh2pld.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "l5agfkiwtpb0glss5rgc",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "ec849e62077af7f4d8d44505e1474ac8",
+        "public_id": "vinted/default-offers/buu5mvebbhwgnqhkvmi1",
+        "version": 1705356058,
+        "version_id": "b3830a1a945da30713d41225cfd074e7",
+        "signature": "caa66c9bbbd9e71a3739214fad407264a9350dc3",
+        "width": 450,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:58Z",
+        "tags": [],
+        "bytes": 70701,
+        "type": "upload",
+        "etag": "d30025457b917132827321ba5e68ab64",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356058/vinted/default-offers/buu5mvebbhwgnqhkvmi1.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356058/vinted/default-offers/buu5mvebbhwgnqhkvmi1.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "fnss2dqo3w1znn7xzaoc",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "510a55456cf5484957cc19289ae88f4e",
+        "public_id": "vinted/default-offers/gz6fxbv6rv0vm9vb6uef",
+        "version": 1705356059,
+        "version_id": "73f0a24296c53184e10afee25cc7a94f",
+        "signature": "df761021e054ad00277183b36d3f23e6c4885173",
+        "width": 450,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:00:59Z",
+        "tags": [],
+        "bytes": 47793,
+        "type": "upload",
+        "etag": "d081a9ece55f32549f9496c714f56f23",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356059/vinted/default-offers/gz6fxbv6rv0vm9vb6uef.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356059/vinted/default-offers/gz6fxbv6rv0vm9vb6uef.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "fyla6qcegowgkel2ichm",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ba"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:00:54.981Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab1c1475db473f8d91cb"
+    },
+    "product_name": "Chemisier carreaux",
+    "product_description": "Très belle qualité de chemise Van Laack, empiècement dos, finitions poignets, surpiqûres encolure, longueur 68 cm, pans arrondis cotés, valeur magasin 174€, pinces devant et dos.",
+    "product_price": 15,
+    "product_details": [
+      {
+        "MARQUE": "VAN LAACK"
+      },
+      {
+        "ÉTAT": "NEUF AVEC ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "ROSE, JAUNE"
+      },
+      {
+        "EMPLACEMENT": "ATTICHES, FRANCE"
+      },
+      {
+        "MODES DE PAIEMENT": "CARTE BANCAIRE, PAYPAL"
+      }
+    ],
+    "product_image": {
+      "asset_id": "6e32f552241995c9a29c4ad4a62d79ce",
+      "public_id": "vinted/default-offers/rafjnxtg840bxcsv7kdu",
+      "version": 1705356060,
+      "version_id": "ebb032c7d1d6b16888102561a82d3c36",
+      "signature": "7ab19ed8f3262fdb4354522ddfdc1944538acf71",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:00Z",
+      "tags": [],
+      "bytes": 116189,
+      "type": "upload",
+      "etag": "f7aa2615405560ee7c20cddb33e57790",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356060/vinted/default-offers/rafjnxtg840bxcsv7kdu.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356060/vinted/default-offers/rafjnxtg840bxcsv7kdu.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "v0tufixm6bgniqsv49pc",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "35918ef3cf28bd6aebfedb73299c21b3",
+        "public_id": "vinted/default-offers/wjapxic4z4seborzdewm",
+        "version": 1705356061,
+        "version_id": "9c6682a5379d2a23a55abf1683255843",
+        "signature": "e4a94cf2260cb9c6afe0504c90d3108ddede4bf4",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:01Z",
+        "tags": [],
+        "bytes": 116189,
+        "type": "upload",
+        "etag": "f7aa2615405560ee7c20cddb33e57790",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356061/vinted/default-offers/wjapxic4z4seborzdewm.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356061/vinted/default-offers/wjapxic4z4seborzdewm.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "veubjvxtvpntf4oznf2i",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c1fbe3bc454fc31a2cfb3b8e1cba1191",
+        "public_id": "vinted/default-offers/lgxezwpcg0zzd2lqlrvd",
+        "version": 1705356062,
+        "version_id": "050402f709dc58cc025e4dce1f33cf05",
+        "signature": "c43542b49ae35d4ef34f5e2fa8da7e80e4abc542",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:02Z",
+        "tags": [],
+        "bytes": 148364,
+        "type": "upload",
+        "etag": "c4fed93bf85e37ba3e1049e98c09086a",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356062/vinted/default-offers/lgxezwpcg0zzd2lqlrvd.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356062/vinted/default-offers/lgxezwpcg0zzd2lqlrvd.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "fdqwyufa34qu1c4axfkj",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "fc039ac51c016af199e48c5716f27c19",
+        "public_id": "vinted/default-offers/b6alxxvyhngisoq1nwxg",
+        "version": 1705356063,
+        "version_id": "f4eeace6613cce4489ca21571649badd",
+        "signature": "4d6b42f7de49e29f892df394bdcbe48b2b445ec9",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:03Z",
+        "tags": [],
+        "bytes": 122048,
+        "type": "upload",
+        "etag": "07c8c7a8a0534012159fb1019a10c931",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356063/vinted/default-offers/b6alxxvyhngisoq1nwxg.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356063/vinted/default-offers/b6alxxvyhngisoq1nwxg.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "yh1qmfaiw8941ouggszl",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "3832fbc2728940c0c00a07aab5859069",
+        "public_id": "vinted/default-offers/hnydqoxd2oczpu7mdedx",
+        "version": 1705356064,
+        "version_id": "033c8bbe5f24ef8070f8bda2ba13659e",
+        "signature": "af56ecaef10e0541c7c404a2bb475121e3a81f22",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:04Z",
+        "tags": [],
+        "bytes": 160819,
+        "type": "upload",
+        "etag": "1af168beab1c01e807f44ab00f5007e5",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356064/vinted/default-offers/hnydqoxd2oczpu7mdedx.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356064/vinted/default-offers/hnydqoxd2oczpu7mdedx.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "k6pkeajaebniuncrgccx",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "554b976b0f40f4e145511efa03883313",
+        "public_id": "vinted/default-offers/umwgioywj7elau4rozkv",
+        "version": 1705356064,
+        "version_id": "033c8bbe5f24ef8070f8bda2ba13659e",
+        "signature": "aef39fe9858dc74e9d0a555d74e8a35fb8bd8607",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:04Z",
+        "tags": [],
+        "bytes": 172567,
+        "type": "upload",
+        "etag": "ce6dd3cf0483698d5596de989bb04cdb",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356064/vinted/default-offers/umwgioywj7elau4rozkv.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356064/vinted/default-offers/umwgioywj7elau4rozkv.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "zqrkibgqkjr0ijbhs8rg",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00b8"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:00.927Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab231475db473f8d91cd"
+    },
+    "product_name": "Conjunto Zaraboy 9/12 meses",
+    "product_description": "conjunto Zaraboy talla 9/12 meses🔝 consta de camisa de cuadros + pantalón pitillo elástico♥️ en perfecto estado ✅✅",
+    "product_price": 5.9,
+    "product_details": [
+      {
+        "MARQUE": "ZARA"
+      },
+      {
+        "TAILLE": "9-12 MOIS / 74-80 CM"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "BLANC, MARINE"
+      },
+      {
+        "EMPLACEMENT": "ESPAÑA"
+      }
+    ],
+    "product_image": {
+      "asset_id": "79f0fa397f05a3f3c39425225013b1ff",
+      "public_id": "vinted/default-offers/m5vmphb9ucgiizl5l1rt",
+      "version": 1705356066,
+      "version_id": "13cc6fec5269fdb99623e09b0dc3b7e9",
+      "signature": "0a9afa1a9d6134de4434da785cbccdcf939c7070",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:06Z",
+      "tags": [],
+      "bytes": 174091,
+      "type": "upload",
+      "etag": "f343710f33663ac6fada49db77949498",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356066/vinted/default-offers/m5vmphb9ucgiizl5l1rt.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356066/vinted/default-offers/m5vmphb9ucgiizl5l1rt.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "jdf8wtkvqwlm7jatdufn",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "e7c5ce01a0a46a37c5ef9be0114e6d24",
+        "public_id": "vinted/default-offers/g6bjvqok80b90t5a6gj1",
+        "version": 1705356067,
+        "version_id": "22a8667e442c6ee2d68557ac4ede2bd1",
+        "signature": "a54434e5b1035d787b4395b6dba7754ee69ec4e9",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:07Z",
+        "tags": [],
+        "bytes": 174091,
+        "type": "upload",
+        "etag": "f343710f33663ac6fada49db77949498",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356067/vinted/default-offers/g6bjvqok80b90t5a6gj1.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356067/vinted/default-offers/g6bjvqok80b90t5a6gj1.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "j2ibucx4oe3u0ti2mnxa",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "846189c30778d70d8afcba718916d2eb",
+        "public_id": "vinted/default-offers/ncjtq1fx3knjl8rxqytq",
+        "version": 1705356068,
+        "version_id": "724b43c5f173c2e09e007ba1672f14e4",
+        "signature": "4931562fe821527c75d5931840097626f3c02178",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:08Z",
+        "tags": [],
+        "bytes": 198002,
+        "type": "upload",
+        "etag": "7c45e427d87b1ef5ec552c883b1a92b6",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356068/vinted/default-offers/ncjtq1fx3knjl8rxqytq.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356068/vinted/default-offers/ncjtq1fx3knjl8rxqytq.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "mhi86seo6bt3slycqnhr",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "1804ad379ac0b538f14ebf4c54d02516",
+        "public_id": "vinted/default-offers/vuuu8zf7t0ghd08h32zo",
+        "version": 1705356069,
+        "version_id": "ad6ac34ae872775141c720d3c29ea46e",
+        "signature": "8096867ca92a02c5573a1515c0068e47a98bf8ef",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:09Z",
+        "tags": [],
+        "bytes": 163733,
+        "type": "upload",
+        "etag": "9fc94a3922fd473f148b7562d39ec20a",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356069/vinted/default-offers/vuuu8zf7t0ghd08h32zo.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356069/vinted/default-offers/vuuu8zf7t0ghd08h32zo.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "cwct68ydmaxvg1fafhbc",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00d2"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:07.044Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab261475db473f8d91cf"
+    },
+    "product_name": "[W] Nike Dunk Low Black/White",
+    "product_description": "Dunk Panda neuves jamais portées !",
+    "product_price": 180,
+    "product_details": [
+      {
+        "MARQUE": "NIKE"
+      },
+      {
+        "TAILLE": "38.5"
+      },
+      {
+        "ÉTAT": "NEUF SANS ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "NOIR, BLANC"
+      },
+      {
+        "EMPLACEMENT": "BONDY, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "89e6ad4bb4f8a4481b284bfde64d0558",
+      "public_id": "vinted/default-offers/qms0uoelrkhzngbvwfag",
+      "version": 1705356070,
+      "version_id": "52dcb3740bf038f7dc1f87a834089a75",
+      "signature": "53ea35e4e831f7412e699202df3b65add81dc690",
+      "width": 800,
+      "height": 600,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:10Z",
+      "tags": [],
+      "bytes": 111412,
+      "type": "upload",
+      "etag": "8244bda6e22928a799f221c075f72bf8",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356070/vinted/default-offers/qms0uoelrkhzngbvwfag.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356070/vinted/default-offers/qms0uoelrkhzngbvwfag.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "xe0zyshao8rbasxndouz",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "2ac62d1dc05acbd81369968e6fb8abcc",
+        "public_id": "vinted/default-offers/qrxccj99a2gql1pyu9c8",
+        "version": 1705356071,
+        "version_id": "1c634987f594949e59de460693ca3040",
+        "signature": "895a2c98e5e732db5c7826c5a52d883d9c75c5b1",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:11Z",
+        "tags": [],
+        "bytes": 111412,
+        "type": "upload",
+        "etag": "8244bda6e22928a799f221c075f72bf8",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356071/vinted/default-offers/qrxccj99a2gql1pyu9c8.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356071/vinted/default-offers/qrxccj99a2gql1pyu9c8.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "kaltiryi56f2g6a4la6h",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "a57929473d314451835288dcd38c3a87",
+        "public_id": "vinted/default-offers/sw5bfk6a7mihezsbxzso",
+        "version": 1705356072,
+        "version_id": "8824824b78739ffd8a5f56eddf429906",
+        "signature": "44579e7c590b6d07152ad4eb96cfa3e45a07a39d",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:12Z",
+        "tags": [],
+        "bytes": 99477,
+        "type": "upload",
+        "etag": "ae9cd37533bb3e6e47f96d016a0bdad3",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356072/vinted/default-offers/sw5bfk6a7mihezsbxzso.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356072/vinted/default-offers/sw5bfk6a7mihezsbxzso.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "e3zcjakhwnkuz4b0zsc9",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c2fcc9914420361b07d4218941595e19",
+        "public_id": "vinted/default-offers/bm54fccrqh28eatyjid7",
+        "version": 1705356072,
+        "version_id": "8824824b78739ffd8a5f56eddf429906",
+        "signature": "7391f287541933f879d378937075be752d7a3688",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:12Z",
+        "tags": [],
+        "bytes": 110683,
+        "type": "upload",
+        "etag": "c1bd85330b209fdd2f3be7621b60cb08",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356072/vinted/default-offers/bm54fccrqh28eatyjid7.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356072/vinted/default-offers/bm54fccrqh28eatyjid7.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ooaq1zdsl5qz8p0mvukm",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "6eb1c0256f8759f0f31ce716bf7ffa9b",
+        "public_id": "vinted/default-offers/hd9bjddynuucemoseylm",
+        "version": 1705356073,
+        "version_id": "39b5f127f36604fa433b4bd964de49de",
+        "signature": "6fe4f5ad05c939ba1358b38da35f8e0bda15cf77",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:13Z",
+        "tags": [],
+        "bytes": 76180,
+        "type": "upload",
+        "etag": "b9dc143cb1287c578da81f8a2ea99668",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356073/vinted/default-offers/hd9bjddynuucemoseylm.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356073/vinted/default-offers/hd9bjddynuucemoseylm.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "yj9ln4hibj1whhybuvuq",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c2"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:10.819Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab2b1475db473f8d91d1"
+    },
+    "product_name": "Levi's jeans 501 high waist",
+    "product_description": "Elegant pantalon jeans levi's 501 avec une ocupe droite et une belleza couleur crème,confortable 100% cotton.\nTaille:W34/L34\nÉtat:Parfait",
+    "product_price": 27.5,
+    "product_details": [
+      {
+        "MARQUE": "LEVI'S"
+      },
+      {
+        "TAILLE": "L"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "BEIGE, MULTICOLORE"
+      },
+      {
+        "EMPLACEMENT": "ESPAÑA"
+      }
+    ],
+    "product_image": {
+      "asset_id": "debcda4cd576356225efbc647cfcc094",
+      "public_id": "vinted/default-offers/r5hmgzqu9otlznyv0bow",
+      "version": 1705356075,
+      "version_id": "6588e53c4e61cb86c3837f68e6b55d22",
+      "signature": "8a8fd5044dc2d3404c7970491eaaa0ade7b38c49",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:15Z",
+      "tags": [],
+      "bytes": 121650,
+      "type": "upload",
+      "etag": "9f2ac695dce52f025e128cc594a21a74",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356075/vinted/default-offers/r5hmgzqu9otlznyv0bow.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356075/vinted/default-offers/r5hmgzqu9otlznyv0bow.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "wluony9kagi9ommpey4j",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "b8490f0880d30efe03c9acf333badbf3",
+        "public_id": "vinted/default-offers/qmse0bdtvqw7evyfad8p",
+        "version": 1705356076,
+        "version_id": "cb34cfd464f40aa9d6473e5a2b5eec74",
+        "signature": "492ce0838fc13c42c18fc9840c8b95993d3bf20b",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:16Z",
+        "tags": [],
+        "bytes": 121650,
+        "type": "upload",
+        "etag": "9f2ac695dce52f025e128cc594a21a74",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356076/vinted/default-offers/qmse0bdtvqw7evyfad8p.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356076/vinted/default-offers/qmse0bdtvqw7evyfad8p.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "jqhrgkioh0ahwbolz95g",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "e6fd87972d29717d3c5bf1b87b0dc9b9",
+        "public_id": "vinted/default-offers/gxqhmepea7x5qpvu4zw3",
+        "version": 1705356077,
+        "version_id": "ed2f9d6f756affb9d9bf2dfc87eb6c60",
+        "signature": "115142c4c490c67d9240920d9b33681ce9f029d3",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:17Z",
+        "tags": [],
+        "bytes": 144854,
+        "type": "upload",
+        "etag": "b9476d63020a69011d196db3c1e4db96",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356077/vinted/default-offers/gxqhmepea7x5qpvu4zw3.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356077/vinted/default-offers/gxqhmepea7x5qpvu4zw3.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "y9tqgbkyg8z4ightoszb",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "60af366074c3cbd8c441bc8551776aeb",
+        "public_id": "vinted/default-offers/e3xkstuxh0bqqcqm3qve",
+        "version": 1705356078,
+        "version_id": "197423b811247f2cd3463f8317aaf25f",
+        "signature": "d90f217822a9599f90990b78c060d1988b7fe92b",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:18Z",
+        "tags": [],
+        "bytes": 148251,
+        "type": "upload",
+        "etag": "8ae8a7f5b6c325d896ca6aa333396388",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356078/vinted/default-offers/e3xkstuxh0bqqcqm3qve.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356078/vinted/default-offers/e3xkstuxh0bqqcqm3qve.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "t0spp2fen7hcgtl7dmkv",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "b50a5ebfb6bd7dd93d5632ef13a82df5",
+        "public_id": "vinted/default-offers/yc4izvhutggrchu8uxwj",
+        "version": 1705356079,
+        "version_id": "a26bc66c15c0c318e640f7f70c3a8c32",
+        "signature": "ba7e4bac942f650c3a73f48ce65b55c6e5352dd0",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:19Z",
+        "tags": [],
+        "bytes": 148662,
+        "type": "upload",
+        "etag": "bde757c7b33b0c1393bd2e75498873e9",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356079/vinted/default-offers/yc4izvhutggrchu8uxwj.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356079/vinted/default-offers/yc4izvhutggrchu8uxwj.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ltat4zavccwgtj5clpph",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "80a158fc6fe10157583876e06e73d9ae",
+        "public_id": "vinted/default-offers/kgnexti6wro3dxqircv9",
+        "version": 1705356079,
+        "version_id": "a26bc66c15c0c318e640f7f70c3a8c32",
+        "signature": "24d8b2ba19375a42d0a85cba76efd60d747fc86b",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:19Z",
+        "tags": [],
+        "bytes": 149209,
+        "type": "upload",
+        "etag": "92b3d8a472286e87849665a031163576",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356079/vinted/default-offers/kgnexti6wro3dxqircv9.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356079/vinted/default-offers/kgnexti6wro3dxqircv9.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "i6a6vp0s1nhg414gqyhe",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ba"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:15.703Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab311475db473f8d91d3"
+    },
+    "product_name": "Rebeca de rejilla entretiempo",
+    "product_description": "En buen estado. No tiene etiqueta, medida aprox XL. CONSULTAR MEDIDAS. Medida axila axila 72-73 cm aprox.\nColor azul oscuro añil, más como el de la segunda foto.\nCon posibilidad de hacer un nudo y que se quede abrochado en la parte delantera.\n#cardigan #cardugan",
+    "product_price": 13,
+    "product_details": [
+      {
+        "MARQUE": "TIENDA LOCAL"
+      },
+      {
+        "TAILLE": "XL / 42 / 14"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "BLEU"
+      },
+      {
+        "EMPLACEMENT": "CORDOBA, ESPAÑA"
+      }
+    ],
+    "product_image": {
+      "asset_id": "99cd56b9eb5275a8f6dc5143ee30cfa4",
+      "public_id": "vinted/default-offers/n4elwyhcsa0ovkiymmbg",
+      "version": 1705356080,
+      "version_id": "7b35cb4642caec4f11d0d2f28eae3d47",
+      "signature": "61de7100f2c11517dd3af7b599a58625427bbe49",
+      "width": 605,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:20Z",
+      "tags": [],
+      "bytes": 131571,
+      "type": "upload",
+      "etag": "433acff95a5255ee1504d97c7bd96cfe",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356080/vinted/default-offers/n4elwyhcsa0ovkiymmbg.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356080/vinted/default-offers/n4elwyhcsa0ovkiymmbg.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "wq5a8dbfzosukjexqka3",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "20810620a9f8f7ff5e8f6e1989dba207",
+        "public_id": "vinted/default-offers/y2lc9hfncbkvfxn5n3xf",
+        "version": 1705356081,
+        "version_id": "c4c0995573f8a0b377b472aea59ad242",
+        "signature": "ee6e14f7b8c2c9959bc8a130f01e3a7b21421a6e",
+        "width": 605,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:21Z",
+        "tags": [],
+        "bytes": 131571,
+        "type": "upload",
+        "etag": "433acff95a5255ee1504d97c7bd96cfe",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356081/vinted/default-offers/y2lc9hfncbkvfxn5n3xf.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356081/vinted/default-offers/y2lc9hfncbkvfxn5n3xf.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "vobh1mv5g16v70kmodcf",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "1b206f30c91c88a82bbed93d8adf6814",
+        "public_id": "vinted/default-offers/vzfjy4dpmwq6gebswlgq",
+        "version": 1705356082,
+        "version_id": "ca34f6b7aee4289cd3889783ff92d692",
+        "signature": "cf6ef52e862197f1ceb024dbe04a3d1e60bc1323",
+        "width": 610,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:22Z",
+        "tags": [],
+        "bytes": 133078,
+        "type": "upload",
+        "etag": "c4c40335c793908d286bddb55f78bc0c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356082/vinted/default-offers/vzfjy4dpmwq6gebswlgq.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356082/vinted/default-offers/vzfjy4dpmwq6gebswlgq.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "evu62jabnfxqxwklkhpf",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ba"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:21.206Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab341475db473f8d91d5"
+    },
+    "product_name": "Vestido algodón verano 😍",
+    "product_description": "talla única, para m más o menos, tela algodón, color blanco , espalda elástica.",
+    "product_price": 10,
+    "product_details": [
+      {
+        "MARQUE": "VINTAGE"
+      },
+      {
+        "TAILLE": "TAILLE UNIQUE"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "BLANC"
+      },
+      {
+        "EMPLACEMENT": "ESPAÑA"
+      }
+    ],
+    "product_image": {
+      "asset_id": "50ec097ad42adfce9338121b039fd00d",
+      "public_id": "vinted/default-offers/efzbmx9pspk31jhvq7az",
+      "version": 1705356083,
+      "version_id": "e2da431368bcc9f3dc98418d20e1a5ff",
+      "signature": "d07d25f02d172e4a02e5c2d5f5212fa18e423847",
+      "width": 800,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:23Z",
+      "tags": [],
+      "bytes": 271186,
+      "type": "upload",
+      "etag": "d24f4300a7961af896e38a5e99f3e798",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356083/vinted/default-offers/efzbmx9pspk31jhvq7az.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356083/vinted/default-offers/efzbmx9pspk31jhvq7az.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "strwlj3mf7xt8ybjlld3",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "8ca0184e3a402c93197e6f51e98a72e8",
+        "public_id": "vinted/default-offers/mzyammkbfa181yvgonba",
+        "version": 1705356084,
+        "version_id": "4a5ed819e660bc791bbec33421e2dca5",
+        "signature": "8499eeba650b7edc12b5dd85f0290dc815cb3cdd",
+        "width": 800,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:24Z",
+        "tags": [],
+        "bytes": 271186,
+        "type": "upload",
+        "etag": "d24f4300a7961af896e38a5e99f3e798",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356084/vinted/default-offers/mzyammkbfa181yvgonba.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356084/vinted/default-offers/mzyammkbfa181yvgonba.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "h0x0lvyjade1rqkkd0pv",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "9b308b951634bb5e26dc55b8ba7afc57",
+        "public_id": "vinted/default-offers/xm59yekvajde8izn1qyz",
+        "version": 1705356085,
+        "version_id": "cdbe45bd2a6734fdf0a3e95f21ddd014",
+        "signature": "85d6b0f4780d0f23fe0e26c6f871120eae90438e",
+        "width": 800,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:25Z",
+        "tags": [],
+        "bytes": 205184,
+        "type": "upload",
+        "etag": "11d804bc28eb9e796179adf25196bea8",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356085/vinted/default-offers/xm59yekvajde8izn1qyz.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356085/vinted/default-offers/xm59yekvajde8izn1qyz.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "qzd6b8lilj53hmtud9qf",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "fc53fc2661cc2ad7cdb7bc7b50852387",
+        "public_id": "vinted/default-offers/kwkxp3wufm5vn0meka46",
+        "version": 1705356086,
+        "version_id": "abb86f5459e67b431197f9e7b0f5562c",
+        "signature": "fa4005cc52b5734a9d4798b0914657c014f4087d",
+        "width": 800,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:26Z",
+        "tags": [],
+        "bytes": 184322,
+        "type": "upload",
+        "etag": "46fd34346aeb222845fe42d51cb9926c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356086/vinted/default-offers/kwkxp3wufm5vn0meka46.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356086/vinted/default-offers/kwkxp3wufm5vn0meka46.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "f6pq9ixstr1g5fvqgdio",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c8"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:24.671Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab381475db473f8d91d7"
+    },
+    "product_name": "Pull Nike crew",
+    "product_description": "Pull Nike foundation crew ✔️\n𝐓𝐚𝐢𝐥𝐥𝐞 : M\n𝐂𝐨𝐮𝐥𝐞𝐮𝐫 : Gris claire | Logo blanc et noir\n𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧 : 8/🔟\n",
+    "product_price": 38,
+    "product_details": [
+      {
+        "MARQUE": "NIKE"
+      },
+      {
+        "TAILLE": "M"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "GRIS"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "c86d2a573908d74ee5558e2d48156bff",
+      "public_id": "vinted/default-offers/llzjvrkvdmieayuvaw3l",
+      "version": 1705356087,
+      "version_id": "bde77ab0c1b8b6efdc35e3b294727682",
+      "signature": "89259cad91d268c361b4d04b98a1417d30a9f38a",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:27Z",
+      "tags": [],
+      "bytes": 139118,
+      "type": "upload",
+      "etag": "de2a222ffb56e419fdcd1a83dc47f84b",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356087/vinted/default-offers/llzjvrkvdmieayuvaw3l.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356087/vinted/default-offers/llzjvrkvdmieayuvaw3l.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "ugwkw0mcal1d357bwoh8",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "eb8b446d1d13d4a7d282a3e4810371fc",
+        "public_id": "vinted/default-offers/mk7zczkbalgwtvimkewk",
+        "version": 1705356088,
+        "version_id": "0dea73628eaa34386d4f5f6998e75017",
+        "signature": "8dd56cb8f1abb60530f8b512e5d58548395a5233",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:28Z",
+        "tags": [],
+        "bytes": 139118,
+        "type": "upload",
+        "etag": "de2a222ffb56e419fdcd1a83dc47f84b",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356088/vinted/default-offers/mk7zczkbalgwtvimkewk.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356088/vinted/default-offers/mk7zczkbalgwtvimkewk.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "f1qjwumkvhprtgahrkkp",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "1f1c1acfa79f3d94b793ac35d7838ef8",
+        "public_id": "vinted/default-offers/zmfqml31prkwgyyddnzh",
+        "version": 1705356089,
+        "version_id": "56d183d9dfc9c761f7aafb0662ba8177",
+        "signature": "5c7a80ad980ab952623c6e9f71ac8012b8b9335b",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:29Z",
+        "tags": [],
+        "bytes": 182537,
+        "type": "upload",
+        "etag": "d99f39a0925297f9999a28bccd0f6769",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356089/vinted/default-offers/zmfqml31prkwgyyddnzh.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356089/vinted/default-offers/zmfqml31prkwgyyddnzh.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "blbli7xvmjehnazytrey",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "e7947d3d69a0a994a746781725fe45ec",
+        "public_id": "vinted/default-offers/tdrwxiydvqgj0refo0i5",
+        "version": 1705356090,
+        "version_id": "17a14356ca1cdce4d13075861d1d3cca",
+        "signature": "d692a1e5967cbccfb0a41e00242ac86dc65897f2",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:30Z",
+        "tags": [],
+        "bytes": 175363,
+        "type": "upload",
+        "etag": "0b6d0248681d0e36350e3f0946fbd5b9",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356090/vinted/default-offers/tdrwxiydvqgj0refo0i5.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356090/vinted/default-offers/tdrwxiydvqgj0refo0i5.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "pjrmwm6nwm4adwfh3qxi",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "f9f03dd265306b143cd2655353eb6536",
+        "public_id": "vinted/default-offers/nj3hbpskwtpnfzwrtqrf",
+        "version": 1705356091,
+        "version_id": "45b715c1f2e2eb7d65508dc64bcbadb5",
+        "signature": "f877e472cf89789eb4a7332d3c12ad2327e324fe",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:31Z",
+        "tags": [],
+        "bytes": 166917,
+        "type": "upload",
+        "etag": "2c8e3bff47ecbfa2188bf540da0553c5",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356091/vinted/default-offers/nj3hbpskwtpnfzwrtqrf.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356091/vinted/default-offers/nj3hbpskwtpnfzwrtqrf.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "zzdggri87mmw6lwlpaqq",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00b0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:28.537Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab3d1475db473f8d91d9"
+    },
+    "product_name": "T-shirt The North Face",
+    "product_description": "T-shirt TNF bleu marine et rouge\nTaille S\nTrès bon état, porté très peu de fois",
+    "product_price": 10,
+    "product_details": [
+      {
+        "MARQUE": "THE NORTH FACE"
+      },
+      {
+        "TAILLE": "S"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "ROUGE, MARINE"
+      },
+      {
+        "EMPLACEMENT": "SAINT-MARCEL-LÈS-VALENCE, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "c30f6afb5062b6956518852d46dba0c3",
+      "public_id": "vinted/default-offers/qorwofov5uvrwklj6vna",
+      "version": 1705356092,
+      "version_id": "4b57e7c33d5cf5f91cd98a1bf30c5fea",
+      "signature": "ef18ea44d963a2aa7f21bd4e3b080583496f7d09",
+      "width": 583,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:32Z",
+      "tags": [],
+      "bytes": 73245,
+      "type": "upload",
+      "etag": "b88a7a3e09d7fbce98a5ad5d9d8ee52f",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356092/vinted/default-offers/qorwofov5uvrwklj6vna.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356092/vinted/default-offers/qorwofov5uvrwklj6vna.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "b8igcd1zjm6hmcloccyw",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "1a57452f6082b2b35285660779533347",
+        "public_id": "vinted/default-offers/cgequ0qnpje9hix2imdh",
+        "version": 1705356093,
+        "version_id": "34c163b1659869f12c795f9af923e651",
+        "signature": "d8362d3ff478d1be9792fbebe9872562d8655687",
+        "width": 583,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:33Z",
+        "tags": [],
+        "bytes": 73245,
+        "type": "upload",
+        "etag": "b88a7a3e09d7fbce98a5ad5d9d8ee52f",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356093/vinted/default-offers/cgequ0qnpje9hix2imdh.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356093/vinted/default-offers/cgequ0qnpje9hix2imdh.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "egdohakx3zfcwj4sc7cf",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "76f882f8884eb431c2f043d69d2cac01",
+        "public_id": "vinted/default-offers/fcad1dzfq48xg0i9op6n",
+        "version": 1705356094,
+        "version_id": "6a1461165d64f87021ec384174c305c9",
+        "signature": "805f43bc83b9d608ceeeefbf35d1f90ef30a3493",
+        "width": 609,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:34Z",
+        "tags": [],
+        "bytes": 70690,
+        "type": "upload",
+        "etag": "ef94494a440d30f8be82f5aa10780049",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356094/vinted/default-offers/fcad1dzfq48xg0i9op6n.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356094/vinted/default-offers/fcad1dzfq48xg0i9op6n.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "nfttihx1jmjzgp562ujt",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "9910019bc5085f65da8059b8979d355d",
+        "public_id": "vinted/default-offers/yci5le6te33vqonbb8oo",
+        "version": 1705356095,
+        "version_id": "fe4e9192d14e800512e902b0f4eb4641",
+        "signature": "92820cdd079cb45a61312e1b64ac4069820c5da9",
+        "width": 800,
+        "height": 450,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:35Z",
+        "tags": [],
+        "bytes": 81381,
+        "type": "upload",
+        "etag": "a71873125a24bdfead90931c01166de1",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356095/vinted/default-offers/yci5le6te33vqonbb8oo.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356095/vinted/default-offers/yci5le6te33vqonbb8oo.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "pdbnccx4q0k8uz8ply1h",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c2"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:33.257Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab401475db473f8d91db"
+    },
+    "product_name": "Blouse The Kooples",
+    "product_description": "taille 1\n100% soie\nparfait etat\nforme cache coeur",
+    "product_price": 40,
+    "product_details": [
+      {
+        "MARQUE": "THE KOOPLES"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "BLEU, VERT"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "285ddfe37df5e7cc97bf375b52d46865",
+      "public_id": "vinted/default-offers/wzfetb0kd9souvicantt",
+      "version": 1705356096,
+      "version_id": "15397721b612ab0adba08eb0bacdb766",
+      "signature": "97c43d6400a66309763bbeba1e24a079c11a98d6",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:36Z",
+      "tags": [],
+      "bytes": 99963,
+      "type": "upload",
+      "etag": "cec69379e12437dd65e46a3da09635fb",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356096/vinted/default-offers/wzfetb0kd9souvicantt.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356096/vinted/default-offers/wzfetb0kd9souvicantt.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "hbpytdyr65mplcmrgyxu",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "3a41fa261c86a07129ca7e9903581c13",
+        "public_id": "vinted/default-offers/cysbngwz4ide2v9bq4o3",
+        "version": 1705356097,
+        "version_id": "baf93ce6b0ea597856c7f01011668fe5",
+        "signature": "e5b7eb7535ded143e2786818e2fddf57935883a8",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:37Z",
+        "tags": [],
+        "bytes": 99963,
+        "type": "upload",
+        "etag": "cec69379e12437dd65e46a3da09635fb",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356097/vinted/default-offers/cysbngwz4ide2v9bq4o3.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356097/vinted/default-offers/cysbngwz4ide2v9bq4o3.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "giclay3ehmrdjo4g10sq",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "4c9b239addcf270b59db63b898e40fae",
+        "public_id": "vinted/default-offers/hqaqbpuustz4a4cjzksd",
+        "version": 1705356097,
+        "version_id": "baf93ce6b0ea597856c7f01011668fe5",
+        "signature": "3d4d3e820ed88a355b4d2b9ee3c71d1cb864e5ef",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:37Z",
+        "tags": [],
+        "bytes": 108755,
+        "type": "upload",
+        "etag": "bf267a2b157de3ae12e0de1dd6bec35d",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356097/vinted/default-offers/hqaqbpuustz4a4cjzksd.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356097/vinted/default-offers/hqaqbpuustz4a4cjzksd.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "v1e6umwo4pfae29iqtkb",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "6e78dda2f9946a734c4245d5d150596e",
+        "public_id": "vinted/default-offers/zv3dz1bldcg86dpcszdd",
+        "version": 1705356099,
+        "version_id": "c97c86f1b33df2d67e381ad73f53575a",
+        "signature": "de13ecee8b5c4ba61e75d8124b2df40f4a064369",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:39Z",
+        "tags": [],
+        "bytes": 127445,
+        "type": "upload",
+        "etag": "67eb8281bfd56fbc92427a2527c782eb",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356099/vinted/default-offers/zv3dz1bldcg86dpcszdd.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356099/vinted/default-offers/zv3dz1bldcg86dpcszdd.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "lhvtodehea2ngvi4r8ph",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "aa6cf337438356b6e35fc7c01e588d26",
+        "public_id": "vinted/default-offers/oxmzpwqaxotu8amnl1ra",
+        "version": 1705356100,
+        "version_id": "3bfe1af0935a6fbad59cde0e3f9b5481",
+        "signature": "7c0da44b5686bfb2cfce99bd281f8c53b320583e",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:40Z",
+        "tags": [],
+        "bytes": 158466,
+        "type": "upload",
+        "etag": "c32ea2da25a3621a85448377b994c689",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356100/vinted/default-offers/oxmzpwqaxotu8amnl1ra.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356100/vinted/default-offers/oxmzpwqaxotu8amnl1ra.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ccgd4culizoo47fanovc",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:36.927Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab451475db473f8d91dd"
+    },
+    "product_name": "Veste Balzac Paris",
+    "product_description": "en coton brodé, tissu plutôt épais\nse porte ouverte\npoches sur le devant\ntrès bon etat",
+    "product_price": 40,
+    "product_details": [
+      {
+        "MARQUE": "BALZAC PARIS"
+      },
+      {
+        "TAILLE": "XS / 34 / 6"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "NOIR, MARRON"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "2cef6a899e04c915db92fbe47b492f9b",
+      "public_id": "vinted/default-offers/tn8xd2y0dgd27nthwl6w",
+      "version": 1705356100,
+      "version_id": "3bfe1af0935a6fbad59cde0e3f9b5481",
+      "signature": "2cff630fcb873ef6fd398b3ebfebbde9ea8f4567",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:40Z",
+      "tags": [],
+      "bytes": 155417,
+      "type": "upload",
+      "etag": "4a5ba33f779fa6947addbd806cbc9247",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356100/vinted/default-offers/tn8xd2y0dgd27nthwl6w.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356100/vinted/default-offers/tn8xd2y0dgd27nthwl6w.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "bbamzbirhkzscomfew59",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "593ca07e88b5d72193b7a9f30a8a686d",
+        "public_id": "vinted/default-offers/qubcvsyovhupl4rcahij",
+        "version": 1705356101,
+        "version_id": "4dcdeaae3a38683488239cf483c938bb",
+        "signature": "035fbe89dd07bef8b7f78f63cd5137a384eef11e",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:41Z",
+        "tags": [],
+        "bytes": 155417,
+        "type": "upload",
+        "etag": "4a5ba33f779fa6947addbd806cbc9247",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356101/vinted/default-offers/qubcvsyovhupl4rcahij.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356101/vinted/default-offers/qubcvsyovhupl4rcahij.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "hdqqsfc5xjjnieiecxqz",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c27a2df46ef1b00aa7c315abcfd1303e",
+        "public_id": "vinted/default-offers/zhrqxzx0m4tece6a7rsl",
+        "version": 1705356102,
+        "version_id": "8b7d1b5982bf63ef716a38bfcf6323b1",
+        "signature": "021795e4f0cb3b517ba0a17b1006ad0dd2d85b9e",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:42Z",
+        "tags": [],
+        "bytes": 156057,
+        "type": "upload",
+        "etag": "e94e8bdce141899d714e19f759cca495",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356102/vinted/default-offers/zhrqxzx0m4tece6a7rsl.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356102/vinted/default-offers/zhrqxzx0m4tece6a7rsl.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "fghnlwbvrscybgfhf6xd",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "23ad01ea9ef9383742150b8ca04bb428",
+        "public_id": "vinted/default-offers/js2tsvjlwbasnn95eort",
+        "version": 1705356103,
+        "version_id": "99f7ad5062590e228dfbba1e321111d9",
+        "signature": "e90886c85327302b8c7f675ba46011fb5167f695",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:43Z",
+        "tags": [],
+        "bytes": 197608,
+        "type": "upload",
+        "etag": "78260ccdea5be715370ffed0a1b70fba",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356103/vinted/default-offers/js2tsvjlwbasnn95eort.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356103/vinted/default-offers/js2tsvjlwbasnn95eort.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "eemozjrpyawke2pyjf8i",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "9559ef4a9cf65ab6598b5a2841c10e85",
+        "public_id": "vinted/default-offers/t9z65p68yntedec80gpy",
+        "version": 1705356104,
+        "version_id": "9314fba4bb14364616bba554d922844a",
+        "signature": "60fafc25d5da797a71f2297c76aa9fefc0aa1f77",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:44Z",
+        "tags": [],
+        "bytes": 127248,
+        "type": "upload",
+        "etag": "97024a6bdfedf6e1a7d8944310454235",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356104/vinted/default-offers/t9z65p68yntedec80gpy.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356104/vinted/default-offers/t9z65p68yntedec80gpy.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "bbxddjzfishzq8tva9xd",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:41.514Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab491475db473f8d91df"
+    },
+    "product_name": "Chemise Ba&sh",
+    "product_description": "chemise en coton léger collection printemps été\nportée mais bon état général 😊\ntaille 0",
+    "product_price": 25,
+    "product_details": [
+      {
+        "MARQUE": "BA&SH"
+      },
+      {
+        "TAILLE": "XS / 34 / 6"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "VIOLET, BLANC"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "5e7351089308c52ca8d4cca072da82e2",
+      "public_id": "vinted/default-offers/ceulxju3qrk1tpmuzj3y",
+      "version": 1705356105,
+      "version_id": "f916845e188e410c5785ba16c8ed3db7",
+      "signature": "8f1e999a40906418e15d2ee69873e4d2a7bd3454",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:45Z",
+      "tags": [],
+      "bytes": 165742,
+      "type": "upload",
+      "etag": "63e8687b14f31e4411077dfa8abc3754",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356105/vinted/default-offers/ceulxju3qrk1tpmuzj3y.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356105/vinted/default-offers/ceulxju3qrk1tpmuzj3y.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "ggxrrpvobb9c6ntvz7ht",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "93a8f2f403ae90bc9a9e6b61c8f964c1",
+        "public_id": "vinted/default-offers/ahv4zgl8i5malfu5q5wa",
+        "version": 1705356105,
+        "version_id": "f916845e188e410c5785ba16c8ed3db7",
+        "signature": "aafbbec6b1a02664a031030d37dde544d3baeefb",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:45Z",
+        "tags": [],
+        "bytes": 165742,
+        "type": "upload",
+        "etag": "63e8687b14f31e4411077dfa8abc3754",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356105/vinted/default-offers/ahv4zgl8i5malfu5q5wa.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356105/vinted/default-offers/ahv4zgl8i5malfu5q5wa.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "lgvsxr7edrhpebgkhkxr",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "a6eecd560d806e2555346c6cc54e226b",
+        "public_id": "vinted/default-offers/aj3dngzspsxq6z0wrlcl",
+        "version": 1705356107,
+        "version_id": "9a03a5c281653a918d6243e4b043c6a3",
+        "signature": "08a5042762774f3a24bafa754fce5cab788c37f6",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:47Z",
+        "tags": [],
+        "bytes": 174460,
+        "type": "upload",
+        "etag": "e749ad283cc8081ba4be9d19e41ce4cc",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356107/vinted/default-offers/aj3dngzspsxq6z0wrlcl.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356107/vinted/default-offers/aj3dngzspsxq6z0wrlcl.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "vedz29oelliycjkabh01",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "217c9a9101cb138ee4835edda89eb49b",
+        "public_id": "vinted/default-offers/qhdioulwxxfbe3rfhvl2",
+        "version": 1705356107,
+        "version_id": "9a03a5c281653a918d6243e4b043c6a3",
+        "signature": "3c25a38763abe73ab0e5f180ade2830fce0f9503",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:47Z",
+        "tags": [],
+        "bytes": 226207,
+        "type": "upload",
+        "etag": "56a140199a1fee53285651b69c7e445a",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356107/vinted/default-offers/qhdioulwxxfbe3rfhvl2.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356107/vinted/default-offers/qhdioulwxxfbe3rfhvl2.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "acidzobldvbrayrgvfkh",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "fa2efd83d726e225bd5049f77693b556",
+        "public_id": "vinted/default-offers/ftxklqiphzhi3auja5tn",
+        "version": 1705356108,
+        "version_id": "8e8481cbbe2f925692b66d3ad0ae4cbc",
+        "signature": "a8d3d1b1a9d301edfe23d4f8994eba738052d835",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:48Z",
+        "tags": [],
+        "bytes": 163355,
+        "type": "upload",
+        "etag": "317472462f042c1208f6e24fb5da68bf",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356108/vinted/default-offers/ftxklqiphzhi3auja5tn.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356108/vinted/default-offers/ftxklqiphzhi3auja5tn.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "dcdobpcw6ndbo9ujuvaz",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00d4"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:45.526Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab4e1475db473f8d91e1"
+    },
+    "product_name": "Veste Sandro",
+    "product_description": "taille 36\ncoupe plutôt courte et droite\na fermeture eclair\npoche en cuir d’agneau devant",
+    "product_price": 30,
+    "product_details": [
+      {
+        "MARQUE": "SANDRO"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "NOIR"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "5515ea06ea665601cf467fbe652c71b8",
+      "public_id": "vinted/default-offers/ktrybnny2suclqrerdta",
+      "version": 1705356109,
+      "version_id": "2a7b6557b3fec42d0ed0b069d6c8fa6b",
+      "signature": "12376f756f4416a9c0dba44c4effa0e9ca368f7d",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:49Z",
+      "tags": [],
+      "bytes": 51737,
+      "type": "upload",
+      "etag": "9ae692a704999d2cd7c4f775cb51d43a",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356109/vinted/default-offers/ktrybnny2suclqrerdta.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356109/vinted/default-offers/ktrybnny2suclqrerdta.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "qbgtwtbw3o75j164m2jq",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "5e9ec4592f7a85aa0c6ca2faa4d0e86c",
+        "public_id": "vinted/default-offers/yhrh9qdzh2kfhebkza9m",
+        "version": 1705356110,
+        "version_id": "c294015a0839f6811e96aea72b2dc035",
+        "signature": "60cc6d31b7d4808d3d951e1c8c41232c1e9f5675",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:50Z",
+        "tags": [],
+        "bytes": 51737,
+        "type": "upload",
+        "etag": "9ae692a704999d2cd7c4f775cb51d43a",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356110/vinted/default-offers/yhrh9qdzh2kfhebkza9m.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356110/vinted/default-offers/yhrh9qdzh2kfhebkza9m.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "eiwudpzucz6uyiivah8u",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c6d920d3e00a875516a8cdfc069bb3f3",
+        "public_id": "vinted/default-offers/zmiybmydcntaym9t0xa6",
+        "version": 1705356111,
+        "version_id": "e361fec1187c4bcd298a1cedaad06c8c",
+        "signature": "6131fc0a5b08b771078804adde605fbaf0589c87",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:51Z",
+        "tags": [],
+        "bytes": 50257,
+        "type": "upload",
+        "etag": "b8362d79739a1816721873701e8254dc",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356111/vinted/default-offers/zmiybmydcntaym9t0xa6.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356111/vinted/default-offers/zmiybmydcntaym9t0xa6.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "gqj5hjt2olv1susuwiws",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c3c652e27aeab781e329ad1f4808f84a",
+        "public_id": "vinted/default-offers/wp2dhdemrviexir0ruzv",
+        "version": 1705356111,
+        "version_id": "e361fec1187c4bcd298a1cedaad06c8c",
+        "signature": "b39aa009d39bae300a224c2fe5892bad3f886bd9",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:51Z",
+        "tags": [],
+        "bytes": 125464,
+        "type": "upload",
+        "etag": "6f3288b36025bf7b533862cc975d1e3b",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356111/vinted/default-offers/wp2dhdemrviexir0ruzv.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356111/vinted/default-offers/wp2dhdemrviexir0ruzv.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "npc4wov7mck3k5r2yrhi",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "19efd7a3ff6d9b98034b0294a16744bc",
+        "public_id": "vinted/default-offers/haqbreuk8py5wtw1o3mm",
+        "version": 1705356112,
+        "version_id": "f0436fdf9fa6e8b01d2bce391c8e388e",
+        "signature": "fecc6388fcdbab13eac5787ced4f725e43971ef0",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:52Z",
+        "tags": [],
+        "bytes": 126494,
+        "type": "upload",
+        "etag": "a4d48cead6003cbedce23504e86aafad",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356112/vinted/default-offers/haqbreuk8py5wtw1o3mm.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356112/vinted/default-offers/haqbreuk8py5wtw1o3mm.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "rucvjmdwhaafd5xivlxf",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00bc"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:50.156Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab511475db473f8d91e3"
+    },
+    "product_name": "Tailleur pantalon Ikito",
+    "product_description": "très bien coupé\npantalon droit avec poches qui arrive aux chevilles et se ferme par un zip discret\nveste cintrée avec gros boutons métallisés\ntaille 36\nmarque Ikito, vintage, qui n’existe plus :)\nmarron chiné",
+    "product_price": 20,
+    "product_details": [
+      {
+        "MARQUE": "IKITO"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "MARRON"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "4c8da4eb59925a1ecb9213a6d924d663",
+      "public_id": "vinted/default-offers/tjubyimrfz2gv5121kir",
+      "version": 1705356113,
+      "version_id": "8ef81efbae67ab36649d2eb4ef287488",
+      "signature": "5f543ae0cc0ecbd18ffde1483059c589aa109a79",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:53Z",
+      "tags": [],
+      "bytes": 152751,
+      "type": "upload",
+      "etag": "06114f6ebc23556c0e7d85e46223f826",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356113/vinted/default-offers/tjubyimrfz2gv5121kir.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356113/vinted/default-offers/tjubyimrfz2gv5121kir.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "izaiadc2ulckv5nicf2i",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "11a7b293ad2c93faaa5924297d6740ae",
+        "public_id": "vinted/default-offers/fmmtnwn1wlup2llyjxzc",
+        "version": 1705356114,
+        "version_id": "780207fc0076730dc9389d276ec77ba3",
+        "signature": "d83af94134ac4577b5ba044861b7ff6bd49d6f55",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:54Z",
+        "tags": [],
+        "bytes": 152751,
+        "type": "upload",
+        "etag": "06114f6ebc23556c0e7d85e46223f826",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356114/vinted/default-offers/fmmtnwn1wlup2llyjxzc.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356114/vinted/default-offers/fmmtnwn1wlup2llyjxzc.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ah0ozi4yopg9fruorpu7",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "7c56b92a414fcd6d9a35fa2c017c9ddd",
+        "public_id": "vinted/default-offers/zyk5dbaid2cm0itgmnib",
+        "version": 1705356115,
+        "version_id": "5e9af76f3a11c1c18d6bdb38a997fcf7",
+        "signature": "d12b15c769e334d4fcbe614881c83234f81ea638",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:55Z",
+        "tags": [],
+        "bytes": 172491,
+        "type": "upload",
+        "etag": "4f41cdc6ce9af89ba406d5b5b4935bdc",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356115/vinted/default-offers/zyk5dbaid2cm0itgmnib.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356115/vinted/default-offers/zyk5dbaid2cm0itgmnib.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "u9xayxft3dyfdgsxvodu",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "6d608dda5d366b10a6542cb37b3a961a",
+        "public_id": "vinted/default-offers/jga1mr3eyqvjo97zd9uw",
+        "version": 1705356116,
+        "version_id": "d01e8cc66dd6e70fbc1fff7392dcc1f0",
+        "signature": "02824076d989b1b940069fd2ac383a06fb35cfef",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:56Z",
+        "tags": [],
+        "bytes": 189517,
+        "type": "upload",
+        "etag": "ee17c67fb477034473cb6f0b957bfe03",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356116/vinted/default-offers/jga1mr3eyqvjo97zd9uw.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356116/vinted/default-offers/jga1mr3eyqvjo97zd9uw.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "i3pq1ysuskzby7lqzdil",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "8a008a493885c53709f81e9b650f04f3",
+        "public_id": "vinted/default-offers/tc4hn8wntr2vzq46bmhx",
+        "version": 1705356117,
+        "version_id": "11424a9e24d8ed6efafe80a5a04bd52e",
+        "signature": "5d7f9df40f7658f3b7beb413d2ab54197b0aa41e",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:57Z",
+        "tags": [],
+        "bytes": 197941,
+        "type": "upload",
+        "etag": "03730b7206418602d9c36475700d70c7",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356117/vinted/default-offers/tc4hn8wntr2vzq46bmhx.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356117/vinted/default-offers/tc4hn8wntr2vzq46bmhx.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "qeu1pqkfvblpqh4bb5fb",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00b0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:53.965Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab561475db473f8d91e5"
+    },
+    "product_name": "Robe Maje",
+    "product_description": "robe courte en daim, doublée\nparfait etat\ncouleur framboise\nboutons pression sur tout le devant\ntaille 1",
+    "product_price": 45,
+    "product_details": [
+      {
+        "MARQUE": "MAJE"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "ROUGE"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "de0032344940ed02211c0992180486f5",
+      "public_id": "vinted/default-offers/duhgmeuqh4ruynad38xt",
+      "version": 1705356117,
+      "version_id": "11424a9e24d8ed6efafe80a5a04bd52e",
+      "signature": "ad9fb733ae62b3bd4f9a0be6758276ad3f365eb5",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:01:57Z",
+      "tags": [],
+      "bytes": 48572,
+      "type": "upload",
+      "etag": "2011db8141b27c990cb1d826a4fe0d95",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356117/vinted/default-offers/duhgmeuqh4ruynad38xt.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356117/vinted/default-offers/duhgmeuqh4ruynad38xt.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "etuwj32hlplulg6tgx4u",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "30ddc910f9669c359184b712f6806243",
+        "public_id": "vinted/default-offers/t4behd8bq9euiw65lb64",
+        "version": 1705356118,
+        "version_id": "f2e9ae6608badac66a1af2cba25d92df",
+        "signature": "c382dd880020ef12d2a0f12dcb261db0d5822582",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:58Z",
+        "tags": [],
+        "bytes": 48572,
+        "type": "upload",
+        "etag": "2011db8141b27c990cb1d826a4fe0d95",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356118/vinted/default-offers/t4behd8bq9euiw65lb64.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356118/vinted/default-offers/t4behd8bq9euiw65lb64.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "np9fzfm5fnxh5jchgpbs",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "7a7693d5eac31da74ebd1280b32f9649",
+        "public_id": "vinted/default-offers/izd2wj5eu5b7dak4a41u",
+        "version": 1705356119,
+        "version_id": "dc9ff032f18e226e9ff4f59b769a3573",
+        "signature": "1baee8b3b4cbc3aa974ab28ce187abe6e90ff780",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:01:59Z",
+        "tags": [],
+        "bytes": 46420,
+        "type": "upload",
+        "etag": "876f978f3c705eaedb766842496ed503",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356119/vinted/default-offers/izd2wj5eu5b7dak4a41u.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356119/vinted/default-offers/izd2wj5eu5b7dak4a41u.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "nkqwyywxe2z0w14c979p",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "6da046bd1d5a845471916be4902e228b",
+        "public_id": "vinted/default-offers/icydfssireb2nas0xnh5",
+        "version": 1705356120,
+        "version_id": "7abd0ec34af0d70329e8a6cfee7b5314",
+        "signature": "5c258b44ca479e7cfa0e25eb64f88abc864de1a8",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:00Z",
+        "tags": [],
+        "bytes": 79705,
+        "type": "upload",
+        "etag": "37ba353832344fa3bb8ba280cad51541",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356120/vinted/default-offers/icydfssireb2nas0xnh5.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356120/vinted/default-offers/icydfssireb2nas0xnh5.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "z2y1dbzwwgm8nljv8rml",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "257709e3d35536a2596de20068521406",
+        "public_id": "vinted/default-offers/hileupvkzqjtz5pjkndr",
+        "version": 1705356121,
+        "version_id": "791a01137cba2e494711e925d438d05d",
+        "signature": "d2ad55a7d8cea9c6512564bb01d460905ef3a288",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:01Z",
+        "tags": [],
+        "bytes": 145005,
+        "type": "upload",
+        "etag": "3d8ff460a06191163c59c868a394fc90",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356121/vinted/default-offers/hileupvkzqjtz5pjkndr.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356121/vinted/default-offers/hileupvkzqjtz5pjkndr.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "phlqdftfhroqarsfyon4",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:01:58.500Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab5a1475db473f8d91e7"
+    },
+    "product_name": "Chemise neuve Zara",
+    "product_description": "coton blanc\ndetails d’ouverture dans le dos\ncoupe légèrement cintrée devant\nvaleur 49,95€",
+    "product_price": 18,
+    "product_details": [
+      {
+        "MARQUE": "ZARA"
+      },
+      {
+        "TAILLE": "XS / 34 / 6"
+      },
+      {
+        "ÉTAT": "NEUF AVEC ÉTIQUETTE"
+      },
+      {
+        "COULEUR": "BLANC"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "3cf74c29f6ac8ccd3477bb2178c4bea5",
+      "public_id": "vinted/default-offers/hcpcb4srhqmk94f7dwpy",
+      "version": 1705356121,
+      "version_id": "791a01137cba2e494711e925d438d05d",
+      "signature": "96a9e69b4f43d4fe7ff602583adf3a9d7912c224",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:01Z",
+      "tags": [],
+      "bytes": 62291,
+      "type": "upload",
+      "etag": "c69d5dc79d7adfecfafb6c31fd59c071",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356121/vinted/default-offers/hcpcb4srhqmk94f7dwpy.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356121/vinted/default-offers/hcpcb4srhqmk94f7dwpy.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "smwibhpfb8jbvejzoypu",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "8609d66f6a215963a3a49d25c0812e7b",
+        "public_id": "vinted/default-offers/hae52cxwf9wqmingjxgp",
+        "version": 1705356122,
+        "version_id": "cb6e3eb5c96e0acf4a75f8e069e400de",
+        "signature": "e0475fc050ea17fe20d5f8a8b9868e4ae8c4d0de",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:02Z",
+        "tags": [],
+        "bytes": 62291,
+        "type": "upload",
+        "etag": "c69d5dc79d7adfecfafb6c31fd59c071",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356122/vinted/default-offers/hae52cxwf9wqmingjxgp.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356122/vinted/default-offers/hae52cxwf9wqmingjxgp.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ufo5znbam2tosethfdm4",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "9e96d3bc5bf54bde8b0260782bd37277",
+        "public_id": "vinted/default-offers/pm0or6uirvj53jprbkbn",
+        "version": 1705356123,
+        "version_id": "5a1bc389a5699b285690b72484cadf43",
+        "signature": "cfac90b884d8549aaa2abb9c481c741a03b73d0b",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:03Z",
+        "tags": [],
+        "bytes": 60277,
+        "type": "upload",
+        "etag": "8f687db1259d0aed0fd492134a0a53e6",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356123/vinted/default-offers/pm0or6uirvj53jprbkbn.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356123/vinted/default-offers/pm0or6uirvj53jprbkbn.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "qsje9yqh9p2kxeyec4wp",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "d95b0a592225b8ce3ee02d2d518fb75b",
+        "public_id": "vinted/default-offers/ioxb6hrnt6gupipwols2",
+        "version": 1705356124,
+        "version_id": "2e733ab3ddf90cd8d26a67114f9c8761",
+        "signature": "f6fbdf05a598c4ad49b79614e8257be90fede100",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:04Z",
+        "tags": [],
+        "bytes": 47737,
+        "type": "upload",
+        "etag": "87bf79208066146b50f6967f10bdb983",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356124/vinted/default-offers/ioxb6hrnt6gupipwols2.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356124/vinted/default-offers/ioxb6hrnt6gupipwols2.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "wbhzxdys4jaouecurzly",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "ed27fbd9b779df8cdaffdddef6368f90",
+        "public_id": "vinted/default-offers/b0q8t5dvziibdm5y37cn",
+        "version": 1705356124,
+        "version_id": "2e733ab3ddf90cd8d26a67114f9c8761",
+        "signature": "e67c629647ab4b9ea88b72a7438d4a72eb9b6659",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:04Z",
+        "tags": [],
+        "bytes": 81903,
+        "type": "upload",
+        "etag": "1671b7c3e21a922c0e28fce4b75d398f",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356124/vinted/default-offers/b0q8t5dvziibdm5y37cn.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356124/vinted/default-offers/b0q8t5dvziibdm5y37cn.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "mejbp5yvt4xsu1nudga3",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00b0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:02.252Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab5e1475db473f8d91e9"
+    },
+    "product_name": "Veste Brixtol",
+    "product_description": "parfait etat\nfaçon Barbour\ndoublure tartan",
+    "product_price": 90,
+    "product_details": [
+      {
+        "MARQUE": "BRIXTOL TEXTILES"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "MARRON"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "993c9d7da24e486c921dcb463d5992e9",
+      "public_id": "vinted/default-offers/qg5l6aofoxrjylmcnrsx",
+      "version": 1705356125,
+      "version_id": "940385ae31e943c307f5cad10afd630a",
+      "signature": "67c9d1580b3a135907d44352d532401dec1f9336",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:05Z",
+      "tags": [],
+      "bytes": 68819,
+      "type": "upload",
+      "etag": "4b4855859e1b61ab3bdb81a696b64164",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356125/vinted/default-offers/qg5l6aofoxrjylmcnrsx.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356125/vinted/default-offers/qg5l6aofoxrjylmcnrsx.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "qv1wc7hkv4oqmlakzgdl",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "898c3915a9f0d771855723ee6594bff4",
+        "public_id": "vinted/default-offers/evvujsv7rkdy3hmbzodm",
+        "version": 1705356126,
+        "version_id": "99459a16f161bb0ca9ca6781fc52ef88",
+        "signature": "0ab75c90a07e9a8ef6b47451b442884972de8671",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:06Z",
+        "tags": [],
+        "bytes": 68819,
+        "type": "upload",
+        "etag": "4b4855859e1b61ab3bdb81a696b64164",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356126/vinted/default-offers/evvujsv7rkdy3hmbzodm.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356126/vinted/default-offers/evvujsv7rkdy3hmbzodm.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "e9fhntd4kgd8ktijpu6k",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "92952a0199f0a037cd06913b14fbe381",
+        "public_id": "vinted/default-offers/kdmgzi47e4fszylicgzm",
+        "version": 1705356127,
+        "version_id": "1238912554b2ddb277fc47ed2b469de0",
+        "signature": "e6a82514961a526c3f9d563978807d8433e09a75",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:07Z",
+        "tags": [],
+        "bytes": 182346,
+        "type": "upload",
+        "etag": "72a3820c470c1dbc6b62c297cb8b519c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356127/vinted/default-offers/kdmgzi47e4fszylicgzm.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356127/vinted/default-offers/kdmgzi47e4fszylicgzm.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "w3npsmlsy5y8wzlayp5t",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "24e70d807c48d8aed19afa1ac9fa3e94",
+        "public_id": "vinted/default-offers/rjdhc79zhx5ebxxn8xuk",
+        "version": 1705356127,
+        "version_id": "1238912554b2ddb277fc47ed2b469de0",
+        "signature": "fa3382f9d732b7fa30b1442c7affd38df7661431",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:07Z",
+        "tags": [],
+        "bytes": 76722,
+        "type": "upload",
+        "etag": "f4ec0a492e06662f4689c29af95b4080",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356127/vinted/default-offers/rjdhc79zhx5ebxxn8xuk.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356127/vinted/default-offers/rjdhc79zhx5ebxxn8xuk.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "z3mgmmcki0z2v2oxjwmp",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "444c780e3a4199a567cf36913c861162",
+        "public_id": "vinted/default-offers/qov5xwzpqndoehpvxj2j",
+        "version": 1705356128,
+        "version_id": "482edd6b7b0e4b5e06707e33873c00f9",
+        "signature": "0881f2f84d080c23f23bb622b8f892c19934dd1f",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:08Z",
+        "tags": [],
+        "bytes": 89749,
+        "type": "upload",
+        "etag": "c9e3639dbb1ba5bb4c12e104116ec7a4",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356128/vinted/default-offers/qov5xwzpqndoehpvxj2j.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356128/vinted/default-offers/qov5xwzpqndoehpvxj2j.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "fre6l5fkjvlcf6a0q6n3",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ca"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:06.083Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab611475db473f8d91eb"
+    },
+    "product_name": "Blouse Bellerose",
+    "product_description": "parfait etat\nécrue avec liserés en velours vert aux manches\ntaille 1",
+    "product_price": 15,
+    "product_details": [
+      {
+        "MARQUE": "BELLEROSE"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "CRÈME"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "98d38e7083b768e60f833dee84bf2fb3",
+      "public_id": "vinted/default-offers/pobt9dlke7tlyhrwmtkj",
+      "version": 1705356129,
+      "version_id": "9735e4b729015072f15b0dbcf081e935",
+      "signature": "2f35fbe0fe89b98408cabd3197ce960ba9e786ec",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:09Z",
+      "tags": [],
+      "bytes": 49391,
+      "type": "upload",
+      "etag": "b0f6679ad3649813a5cd983c1c9c4ccb",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356129/vinted/default-offers/pobt9dlke7tlyhrwmtkj.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356129/vinted/default-offers/pobt9dlke7tlyhrwmtkj.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "amhwfzpyepceoas9ibzj",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "f9d8cff89adfe35594a3e5b7ccefb64d",
+        "public_id": "vinted/default-offers/nahk3adkfdoh2eipa6js",
+        "version": 1705356130,
+        "version_id": "920f4e52b5c26099a58d0d7538ad217e",
+        "signature": "d11f1fc432bf9960a9bf4e4d3d0c0e27c41d5c7a",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:10Z",
+        "tags": [],
+        "bytes": 49391,
+        "type": "upload",
+        "etag": "b0f6679ad3649813a5cd983c1c9c4ccb",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356130/vinted/default-offers/nahk3adkfdoh2eipa6js.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356130/vinted/default-offers/nahk3adkfdoh2eipa6js.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "xggluykuvrxbf97jfro7",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "d74f2bce7852730d3e3f4910b7314114",
+        "public_id": "vinted/default-offers/ixepibbfuadq7nltwe6f",
+        "version": 1705356130,
+        "version_id": "920f4e52b5c26099a58d0d7538ad217e",
+        "signature": "a4cd7c625b9572e6da3278c56ab80e5e237a2f5d",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:10Z",
+        "tags": [],
+        "bytes": 53419,
+        "type": "upload",
+        "etag": "ccfc6862317d117f07e854b7f27b8e33",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356130/vinted/default-offers/ixepibbfuadq7nltwe6f.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356130/vinted/default-offers/ixepibbfuadq7nltwe6f.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "t1scmlrbo0we8rlas5oo",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "59af87f960e6aa6f6ffadb662eb744a7",
+        "public_id": "vinted/default-offers/nq4c02vwzbfdj6u36hhw",
+        "version": 1705356131,
+        "version_id": "da9d328956b186d276e5754ec46773a2",
+        "signature": "1e0a8a3f62ef2bf204a951cbf0d06e7768df32d9",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:11Z",
+        "tags": [],
+        "bytes": 91838,
+        "type": "upload",
+        "etag": "853e92406d9360244c117272c1f2336b",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356131/vinted/default-offers/nq4c02vwzbfdj6u36hhw.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356131/vinted/default-offers/nq4c02vwzbfdj6u36hhw.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "rzxlv7hrbrmdepbowxiy",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "d276ed8828133b9ad786f7b5948cd72d",
+        "public_id": "vinted/default-offers/zzaxvqznqaskwkkth8wc",
+        "version": 1705356132,
+        "version_id": "efc0604d11ab2b9deef18686a54dbe60",
+        "signature": "f05b0e4c3c6b1a5e33569cc3a4044ce285b5696c",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:12Z",
+        "tags": [],
+        "bytes": 69098,
+        "type": "upload",
+        "etag": "98684e4cee669f17c79039d6f4e0cd70",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356132/vinted/default-offers/zzaxvqznqaskwkkth8wc.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356132/vinted/default-offers/zzaxvqznqaskwkkth8wc.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "hh8h2vah69tj3ynmm6eh",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c8"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:09.827Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab661475db473f8d91ed"
+    },
+    "product_name": "Chemise Heimstone",
+    "product_description": "taille 34\nparfait état\ntrès lumineuse",
+    "product_price": 95,
+    "product_details": [
+      {
+        "MARQUE": "HEIMSTONE"
+      },
+      {
+        "TAILLE": "XS / 34 / 6"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "MULTICOLORE, TURQUOISE"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "cdc8738ed86f3ebcf2470aa95c2c26c5",
+      "public_id": "vinted/default-offers/vv0zwv7gl1fd30hycx15",
+      "version": 1705356133,
+      "version_id": "2a8bf9dc56091ad802cc256291720ec4",
+      "signature": "ca8072437baa777fafe1616e0b899b4ee2ebf5de",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:13Z",
+      "tags": [],
+      "bytes": 92127,
+      "type": "upload",
+      "etag": "4721071709d4ba072caa2d828b5cc91c",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356133/vinted/default-offers/vv0zwv7gl1fd30hycx15.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356133/vinted/default-offers/vv0zwv7gl1fd30hycx15.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "ypj8gw77dwdbrvtfaapy",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "afa21df73be4327a307e41d7e071314e",
+        "public_id": "vinted/default-offers/ihy2e1suaano3hlqg00k",
+        "version": 1705356134,
+        "version_id": "2b672e4a9135086c3a0dfd082ea62ebd",
+        "signature": "2eec3077e77000a77198d1afb11aaaf329780a5a",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:14Z",
+        "tags": [],
+        "bytes": 92127,
+        "type": "upload",
+        "etag": "4721071709d4ba072caa2d828b5cc91c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356134/vinted/default-offers/ihy2e1suaano3hlqg00k.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356134/vinted/default-offers/ihy2e1suaano3hlqg00k.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "nyutacugxtfjsqk0n5lu",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "f1731d29348db758cec3b50c37613a4e",
+        "public_id": "vinted/default-offers/gqmokona7uxratm0fjod",
+        "version": 1705356135,
+        "version_id": "7d556b97198b5ad81687149edc8abc83",
+        "signature": "e31cae69efcb19779d7092881be27ad0872b535f",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:15Z",
+        "tags": [],
+        "bytes": 90786,
+        "type": "upload",
+        "etag": "f81a33f2b6fbd820c274a15148d28b0c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356135/vinted/default-offers/gqmokona7uxratm0fjod.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356135/vinted/default-offers/gqmokona7uxratm0fjod.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "idibi9euopgqzo6yxl11",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "6628a3b9de4c9142b1487915045d8c47",
+        "public_id": "vinted/default-offers/ltajhhlcuza9dymglb5o",
+        "version": 1705356136,
+        "version_id": "0b3d626a006a39cf10002c78cf80a014",
+        "signature": "1646b230f8d2169810c2fb1d9b085a7591c9192d",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:16Z",
+        "tags": [],
+        "bytes": 155964,
+        "type": "upload",
+        "etag": "9cb73414f38b614b8726cc13fa5beb7c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356136/vinted/default-offers/ltajhhlcuza9dymglb5o.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356136/vinted/default-offers/ltajhhlcuza9dymglb5o.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "hf1mkshx1vxiifg64bpn",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "5027d761c51c0ed0a8309f7db5edf764",
+        "public_id": "vinted/default-offers/mwa0l4wsmu4pqyeex8ie",
+        "version": 1705356137,
+        "version_id": "bf19f8c6dadabe4403cf42fc064bf3ec",
+        "signature": "f9ac3d9f3f4f60d92694c58a5f5e6cba98f28b4b",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:17Z",
+        "tags": [],
+        "bytes": 134400,
+        "type": "upload",
+        "etag": "6d7db22e1f4a8181e3360b0287c25fe0",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356137/vinted/default-offers/mwa0l4wsmu4pqyeex8ie.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356137/vinted/default-offers/mwa0l4wsmu4pqyeex8ie.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "htbloc5yp5k6vxopykja",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00b6"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:14.351Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab6a1475db473f8d91ef"
+    },
+    "product_name": "Pantalon Rouje",
+    "product_description": "parfait état\nmodele Swan, rayures tennis\ntaille 34\ndeux poches avant et deux poches arrière\nfermeture eclair + bouton",
+    "product_price": 75,
+    "product_details": [
+      {
+        "MARQUE": "ROUJE"
+      },
+      {
+        "TAILLE": "XS / 34 / 6"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "NOIR"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "ae068574b9f0873960de413275543658",
+      "public_id": "vinted/default-offers/ec3mfnonml5l78tyxqiy",
+      "version": 1705356138,
+      "version_id": "3e5acf376b4b71952a0bad8e939b21fb",
+      "signature": "fbbf505d515c938effa13fe6939721b935510bb1",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:18Z",
+      "tags": [],
+      "bytes": 54463,
+      "type": "upload",
+      "etag": "c3f0bd734289c016489a20fcc9cf2bf9",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356138/vinted/default-offers/ec3mfnonml5l78tyxqiy.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356138/vinted/default-offers/ec3mfnonml5l78tyxqiy.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "mbwzrsdivlvzrvgnnprv",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "08926104392588f1745ddea3af811c4f",
+        "public_id": "vinted/default-offers/izfgvdcx31uf3zug4uak",
+        "version": 1705356139,
+        "version_id": "ae1ffef6c36680b5b29d4f30706a8bd1",
+        "signature": "a6a4a17aff3b0183dee23bee41b9d0980bfa2907",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:19Z",
+        "tags": [],
+        "bytes": 54463,
+        "type": "upload",
+        "etag": "c3f0bd734289c016489a20fcc9cf2bf9",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356139/vinted/default-offers/izfgvdcx31uf3zug4uak.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356139/vinted/default-offers/izfgvdcx31uf3zug4uak.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "i1vozo0qoasosdsgkegd",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "9e0f695f4ef81cd7d88582a2b389497d",
+        "public_id": "vinted/default-offers/vsnsy9x5joidgnqgaaqe",
+        "version": 1705356140,
+        "version_id": "b1118dfc24cf9d4f67c29596de17d565",
+        "signature": "82dd1fa24fe63eb3d830e83281952956ff198483",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:20Z",
+        "tags": [],
+        "bytes": 175794,
+        "type": "upload",
+        "etag": "96104a3c615bf602f41e2af09ac01cff",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356140/vinted/default-offers/vsnsy9x5joidgnqgaaqe.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356140/vinted/default-offers/vsnsy9x5joidgnqgaaqe.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "rnfi5p1gdfrengdpxd8t",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "d60ba128bf2bcdcdec37495bf5c1a499",
+        "public_id": "vinted/default-offers/gqkmusys0a5p5ro5abam",
+        "version": 1705356141,
+        "version_id": "5242c3f30850126f3b0548a9f6f7eb80",
+        "signature": "ce0f9af2625c171979059ecf6889bf88bdc733f1",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:21Z",
+        "tags": [],
+        "bytes": 195913,
+        "type": "upload",
+        "etag": "341daccadd7e6d4fc5f636b8fd946e13",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356141/vinted/default-offers/gqkmusys0a5p5ro5abam.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356141/vinted/default-offers/gqkmusys0a5p5ro5abam.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "pwxetv1uao0jfezsrted",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c6eab632af986bb04e58a14d05e89763",
+        "public_id": "vinted/default-offers/wfxnpc18szd2pipqfobc",
+        "version": 1705356142,
+        "version_id": "fdf10503f3fee13109a6c292e5289fae",
+        "signature": "577229c0ff0b65ca715af8d12e3cbdb6fe6f8d32",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:22Z",
+        "tags": [],
+        "bytes": 122854,
+        "type": "upload",
+        "etag": "324a79341bd6cffc26abc7e3b8f30266",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356142/vinted/default-offers/wfxnpc18szd2pipqfobc.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356142/vinted/default-offers/wfxnpc18szd2pipqfobc.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "fudmydkf23z72wxlce4h",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00be"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:18.941Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab701475db473f8d91f1"
+    },
+    "product_name": "Jupe Zadig & Voltaire",
+    "product_description": "100% soie, doublée\njupe courte en très bon état\ndétails en dentelle\ntaille 1\nse ferme avec une fermeture éclair discrète sur le côté",
+    "product_price": 30,
+    "product_details": [
+      {
+        "MARQUE": "ZADIG & VOLTAIRE"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "NOIR"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "bbf75309967abcc88b1748f548e8c4bc",
+      "public_id": "vinted/default-offers/fkiuqtoqjxxcwukl1rmm",
+      "version": 1705356143,
+      "version_id": "b026e545c12a4f52aa1796d4deb9854c",
+      "signature": "4f85427d9597796e6f74c14ff214bff2cdbafe52",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:23Z",
+      "tags": [],
+      "bytes": 138254,
+      "type": "upload",
+      "etag": "b7ca6677419f274bf54acf17834bffe4",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356143/vinted/default-offers/fkiuqtoqjxxcwukl1rmm.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356143/vinted/default-offers/fkiuqtoqjxxcwukl1rmm.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "mkqwkaqjda6nkkk7qrmk",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "93f51632bd33154d9089f70e2809ff83",
+        "public_id": "vinted/default-offers/srckj5bru0uyisffnanq",
+        "version": 1705356144,
+        "version_id": "66a5e09fdc87323b0e07a65a1214aee3",
+        "signature": "1e2d463b8ea3a7a3584260d625e5a25292a7d9da",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:24Z",
+        "tags": [],
+        "bytes": 138254,
+        "type": "upload",
+        "etag": "b7ca6677419f274bf54acf17834bffe4",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356144/vinted/default-offers/srckj5bru0uyisffnanq.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356144/vinted/default-offers/srckj5bru0uyisffnanq.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "wyk52fpgbo0oqgnihx5d",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "893248d126820180bfcb9ad81440914e",
+        "public_id": "vinted/default-offers/irlvbdzdlubgpenvmqth",
+        "version": 1705356145,
+        "version_id": "60f9d9ed35ba6bce356e26cde22e7b54",
+        "signature": "b0270021e7505cbcd3a10de2be04c28b1f6f3e56",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:25Z",
+        "tags": [],
+        "bytes": 166821,
+        "type": "upload",
+        "etag": "0b6f2d11a5a66e9e8ae4119d5b19fe8f",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356145/vinted/default-offers/irlvbdzdlubgpenvmqth.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356145/vinted/default-offers/irlvbdzdlubgpenvmqth.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "hkirikncz3lw2hjn11ci",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "85f6adfe19ef4219bab11b633ff8d27a",
+        "public_id": "vinted/default-offers/uq6hwupwrkpsc1vztezg",
+        "version": 1705356146,
+        "version_id": "372d5d595324d4d53e9c61c5a7262120",
+        "signature": "3fc4a9abde35946a041a12c10028b0289dad6ad0",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:26Z",
+        "tags": [],
+        "bytes": 98557,
+        "type": "upload",
+        "etag": "f9e33fd357448f4a93e640409c7c6d42",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356146/vinted/default-offers/uq6hwupwrkpsc1vztezg.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356146/vinted/default-offers/uq6hwupwrkpsc1vztezg.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "vwubebnzew7za6f9z6oz",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "57e5a69be8ba9afe2f127c6491af8dc4",
+        "public_id": "vinted/default-offers/shzefvowsigk6cqehy4x",
+        "version": 1705356147,
+        "version_id": "e41e82f6c48582a40f01d751c7383d96",
+        "signature": "6c1fa58ed2a027fa501768962a7b54c2e9f12166",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:27Z",
+        "tags": [],
+        "bytes": 135666,
+        "type": "upload",
+        "etag": "72941c011814fe4a465e07865d3e8833",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356147/vinted/default-offers/shzefvowsigk6cqehy4x.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356147/vinted/default-offers/shzefvowsigk6cqehy4x.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ocoqow1qdixkmefoblzq",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00ce"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:24.187Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab741475db473f8d91f3"
+    },
+    "product_name": "Pantalon Roseanna",
+    "product_description": "porté mais très bien entretenu\ndentelle bordeaux avec doublure\ntaille 34\njambe droite",
+    "product_price": 50,
+    "product_details": [
+      {
+        "MARQUE": "ROSEANNA"
+      },
+      {
+        "TAILLE": "XS / 34 / 6"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "BORDEAUX"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "fadad13bb7777aed80a0aef6f8c7634f",
+      "public_id": "vinted/default-offers/a2tp9ukcou8lelnbb8qn",
+      "version": 1705356148,
+      "version_id": "a735698610dd58bec15fe4acd37bfa3c",
+      "signature": "1fa018326af2227f7d46adf932b5e9440f8b2462",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:28Z",
+      "tags": [],
+      "bytes": 78020,
+      "type": "upload",
+      "etag": "cac16cd2979bbade9f254c70ed196ae1",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356148/vinted/default-offers/a2tp9ukcou8lelnbb8qn.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356148/vinted/default-offers/a2tp9ukcou8lelnbb8qn.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "frxdh4y8shgtk1jbthxy",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "932b3648c7d4b459b16b93a0aad36e36",
+        "public_id": "vinted/default-offers/es58i6xbprker07wl4d2",
+        "version": 1705356149,
+        "version_id": "51b95538d9251582dcda528a910e515f",
+        "signature": "087adab610a67be57f60da7d95984cb1d76af185",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:29Z",
+        "tags": [],
+        "bytes": 78020,
+        "type": "upload",
+        "etag": "cac16cd2979bbade9f254c70ed196ae1",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356149/vinted/default-offers/es58i6xbprker07wl4d2.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356149/vinted/default-offers/es58i6xbprker07wl4d2.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "cv0vtanhmkxqcitskwuz",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c55de11852b4da18d986f82020a11ba1",
+        "public_id": "vinted/default-offers/mkqulodjyfcokoyu8tmb",
+        "version": 1705356150,
+        "version_id": "a9f7a78e1cdc7db0c858ef95e4578a57",
+        "signature": "7b5e33617806ed844a9fa5f10ad6505def512df5",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:30Z",
+        "tags": [],
+        "bytes": 251176,
+        "type": "upload",
+        "etag": "7e7f0be567f92995d9aeb71e66a8e364",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356150/vinted/default-offers/mkqulodjyfcokoyu8tmb.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356150/vinted/default-offers/mkqulodjyfcokoyu8tmb.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "nfkblwyaotxl1kb0m8td",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "f5a8447bffb8a6ed67a90817a9b63825",
+        "public_id": "vinted/default-offers/qjnrubcdcjym0hezs7sf",
+        "version": 1705356151,
+        "version_id": "6cd41d077ab40681aa072053b3b51a3d",
+        "signature": "9ec6f95317c2dc3b1ab99789baad7c918effd26c",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:31Z",
+        "tags": [],
+        "bytes": 227289,
+        "type": "upload",
+        "etag": "2314512532e3f30b8b476d19c4de5707",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356151/vinted/default-offers/qjnrubcdcjym0hezs7sf.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356151/vinted/default-offers/qjnrubcdcjym0hezs7sf.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "bmsa5i41nerpbktty62i",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "1222af7db36a82a8e7fee711dee0c7a1",
+        "public_id": "vinted/default-offers/dovullokosgrzagvaxfz",
+        "version": 1705356152,
+        "version_id": "b1196187e3c40f85eddc593282e3044a",
+        "signature": "884eec1badca57c55af7f4ab0e939898f1289002",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:32Z",
+        "tags": [],
+        "bytes": 198638,
+        "type": "upload",
+        "etag": "744d89f3b331ee30249ce1e68869851c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356152/vinted/default-offers/dovullokosgrzagvaxfz.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356152/vinted/default-offers/dovullokosgrzagvaxfz.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "q8afdgxd84decktb0l7o",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00d0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:28.675Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab7a1475db473f8d91f5"
+    },
+    "product_name": "Veste MANOUSH",
+    "product_description": "en tres bon etat, très peu portee\nva avec la jupe coordonnée\ncoupe plutôt courte\n",
+    "product_price": 40,
+    "product_details": [
+      {
+        "MARQUE": "MANOUSH"
+      },
+      {
+        "TAILLE": "XS / 34 / 6"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "MARINE"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "1eff045d928b031fca982effcd0d3dfd",
+      "public_id": "vinted/default-offers/vkan4sp2bfdczpdesmff",
+      "version": 1705356153,
+      "version_id": "f0f5caa1b21a76208b64d4eb7d12afdc",
+      "signature": "e512d07b247cd6a1b756bc4d7ba993f7de5badc0",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:33Z",
+      "tags": [],
+      "bytes": 145129,
+      "type": "upload",
+      "etag": "1fd92f1e2f7172486c10ae24f53bcbf5",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356153/vinted/default-offers/vkan4sp2bfdczpdesmff.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356153/vinted/default-offers/vkan4sp2bfdczpdesmff.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "za2veqn4pcp5jgwhlwea",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "25d37cbe3f198c1db073b8db66ae334d",
+        "public_id": "vinted/default-offers/j0yprr77rkxu2lv8maxo",
+        "version": 1705356154,
+        "version_id": "a344290ea789ec1be2d2a18b57eb5e4f",
+        "signature": "d825578febe97ea06a96b2fe0358bd0d8e5ba959",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:34Z",
+        "tags": [],
+        "bytes": 145129,
+        "type": "upload",
+        "etag": "1fd92f1e2f7172486c10ae24f53bcbf5",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356154/vinted/default-offers/j0yprr77rkxu2lv8maxo.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356154/vinted/default-offers/j0yprr77rkxu2lv8maxo.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "mzoxpgj5fbrylu6upish",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "d91f6b17cc037b0b1a7c8991d5b22e0d",
+        "public_id": "vinted/default-offers/qaz4g5bcibofbxkklzdi",
+        "version": 1705356155,
+        "version_id": "89b18b03a908ef976e29725e2692155b",
+        "signature": "2399746717751e7c5d100cd5ca082f9241903f82",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:35Z",
+        "tags": [],
+        "bytes": 151090,
+        "type": "upload",
+        "etag": "41c034b2d54852d299e1d4262192022c",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356155/vinted/default-offers/qaz4g5bcibofbxkklzdi.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356155/vinted/default-offers/qaz4g5bcibofbxkklzdi.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "bntjaqbrz2a6i2rdzwz0",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "0460b5171a66c3f6c8a40d0f517775fc",
+        "public_id": "vinted/default-offers/ckpgvpnhmi1syhcnhfxl",
+        "version": 1705356156,
+        "version_id": "7712f38514c218141a6a349e1b472c9a",
+        "signature": "b344a7ba83d58310710f75b861f3326930b8f319",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:36Z",
+        "tags": [],
+        "bytes": 110201,
+        "type": "upload",
+        "etag": "fa65d120400e5683b2f192007a9f8060",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356156/vinted/default-offers/ckpgvpnhmi1syhcnhfxl.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356156/vinted/default-offers/ckpgvpnhmi1syhcnhfxl.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "xfldejmgh68gduufy9ph",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "9ec9c1c49f44a51ccc29a10997798592",
+        "public_id": "vinted/default-offers/v6ddwm6og6zescxfzxgt",
+        "version": 1705356157,
+        "version_id": "66161968fd7d26d6828962c86a5cf7a3",
+        "signature": "a9fdfc9655526093ada858cf89b9557545e160e9",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:37Z",
+        "tags": [],
+        "bytes": 227773,
+        "type": "upload",
+        "etag": "0b39fdbe0109fbe750e520b01e66b5b2",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356157/vinted/default-offers/v6ddwm6og6zescxfzxgt.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356157/vinted/default-offers/v6ddwm6og6zescxfzxgt.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "q1klfj2gews2ihpuqzxs",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00b8"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:34.296Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab7e1475db473f8d91f7"
+    },
+    "product_name": "Blouse MANOUSH",
+    "product_description": "portée une fois\nen velours côtelé noir et détails en dentelle\nmanches bouffantes\nvolants\nprès du corps, se ferme entièrement avec une fermeture eclair au milieu du dos\ntaille 36",
+    "product_price": 40,
+    "product_details": [
+      {
+        "MARQUE": "MANOUSH"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "NOIR"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "1c9ace79798eeb1b4efa21898d672e46",
+      "public_id": "vinted/default-offers/x3f7earqelb6hb9l7owp",
+      "version": 1705356158,
+      "version_id": "1a829ab267e1e8ce587944fe6f8994aa",
+      "signature": "e6b7ac2d69e904d8738da08df7e5ea7d5119a0e8",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:38Z",
+      "tags": [],
+      "bytes": 70565,
+      "type": "upload",
+      "etag": "d95c61112269fb2fa7708f35cef8de5e",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356158/vinted/default-offers/x3f7earqelb6hb9l7owp.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356158/vinted/default-offers/x3f7earqelb6hb9l7owp.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "vouo03gcwhdgdphkolxv",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "4844f1b990725c355108b364d67c49a8",
+        "public_id": "vinted/default-offers/p8pmrp46z60xly52eplu",
+        "version": 1705356158,
+        "version_id": "1a829ab267e1e8ce587944fe6f8994aa",
+        "signature": "f4926ff9318cac1fa4f1f561f720e5547d753ebe",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:38Z",
+        "tags": [],
+        "bytes": 70565,
+        "type": "upload",
+        "etag": "d95c61112269fb2fa7708f35cef8de5e",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356158/vinted/default-offers/p8pmrp46z60xly52eplu.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356158/vinted/default-offers/p8pmrp46z60xly52eplu.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "yy1cdxb4kt2rguwnfnxc",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "ab5406ba17ebc81f6291cd781b98170e",
+        "public_id": "vinted/default-offers/ruiflbagjhguxmn7ng7h",
+        "version": 1705356159,
+        "version_id": "c7af294e91b2619b9cc9d1b1c61b514c",
+        "signature": "86862cd2106d56f6f25d76031bf4a73f70d8ad23",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:39Z",
+        "tags": [],
+        "bytes": 76193,
+        "type": "upload",
+        "etag": "a6af83ea3f572333cb8e4deffe5aaa08",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356159/vinted/default-offers/ruiflbagjhguxmn7ng7h.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356159/vinted/default-offers/ruiflbagjhguxmn7ng7h.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "lafatlpzohzdufcgcezo",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "914b4390cd18b79da9b8e6f2ff3d2aff",
+        "public_id": "vinted/default-offers/qgexbcf536x96oluphow",
+        "version": 1705356160,
+        "version_id": "422e22c86e20ac07ebd441c7b742ee36",
+        "signature": "2abd6a8e26ec40662791487fae7b202e14d7634f",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:40Z",
+        "tags": [],
+        "bytes": 104506,
+        "type": "upload",
+        "etag": "2eb3745ef565c4b5143f92f30db725d8",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356160/vinted/default-offers/qgexbcf536x96oluphow.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356160/vinted/default-offers/qgexbcf536x96oluphow.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "oqpouns6bsachohuf5mv",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "d6c2c397901f6a7daa639c6498dc4a10",
+        "public_id": "vinted/default-offers/ejsibg0b3tiknjgy5ktf",
+        "version": 1705356162,
+        "version_id": "4d30916db233c5766f01cb1c922a4828",
+        "signature": "d4dab63c7755f439f5b2d588c1bf80e3db2c66a5",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:42Z",
+        "tags": [],
+        "bytes": 106239,
+        "type": "upload",
+        "etag": "6064c58a645bcb38d4194aef006bd69b",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356162/vinted/default-offers/ejsibg0b3tiknjgy5ktf.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356162/vinted/default-offers/ejsibg0b3tiknjgy5ktf.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "icczznlnosgmkg9l0wtv",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00bc"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:38.749Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab831475db473f8d91f9"
+    },
+    "product_name": "Veste Maison Sarah Lavoine",
+    "product_description": "veste officier en velours\nparfait etat\ntaille 1",
+    "product_price": 80,
+    "product_details": [
+      {
+        "MARQUE": "MAISON SARAH LAVOINE"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "NOIR, DORÉ"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "3b1c67f2449499996094930342ab5f3a",
+      "public_id": "vinted/default-offers/wyd15ssgptirwhvbtqez",
+      "version": 1705356163,
+      "version_id": "6f07755d36b7e523794270d8baf6944d",
+      "signature": "ccaff85b864ae5f4ab59ad101a2e7a84e9543a8b",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:43Z",
+      "tags": [],
+      "bytes": 63744,
+      "type": "upload",
+      "etag": "703d7701d0390dafde39e21788a03834",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356163/vinted/default-offers/wyd15ssgptirwhvbtqez.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356163/vinted/default-offers/wyd15ssgptirwhvbtqez.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "itzozcjeyrov5fv7wgbc",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "c4e12bcfcb6e6d65a5c6a1d52f25acfd",
+        "public_id": "vinted/default-offers/dxdsrjbmfmkgpoip681r",
+        "version": 1705356163,
+        "version_id": "6f07755d36b7e523794270d8baf6944d",
+        "signature": "d0b3869bc2e064ec14f4a12ff714feade9498644",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:43Z",
+        "tags": [],
+        "bytes": 63744,
+        "type": "upload",
+        "etag": "703d7701d0390dafde39e21788a03834",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356163/vinted/default-offers/dxdsrjbmfmkgpoip681r.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356163/vinted/default-offers/dxdsrjbmfmkgpoip681r.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "sjxke5eofxos51ipuqig",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "96d33f8ca813cd3e4a637f3927fbd441",
+        "public_id": "vinted/default-offers/s95mw7nyex1dxiklxfrb",
+        "version": 1705356164,
+        "version_id": "baaf877b6a3560158ca3bb3906c1d6ab",
+        "signature": "00c353d760a8d299ce3346bb9cb447b2352f0d94",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:44Z",
+        "tags": [],
+        "bytes": 51600,
+        "type": "upload",
+        "etag": "dbf362f7b6d45ed9dbb5dbd504d0207f",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356164/vinted/default-offers/s95mw7nyex1dxiklxfrb.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356164/vinted/default-offers/s95mw7nyex1dxiklxfrb.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "l8vm8xfnu7kf1v9ojm58",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "b9674399b71874c2f01a9136077c94f0",
+        "public_id": "vinted/default-offers/xrsmmbf0k2lt5dkoouw1",
+        "version": 1705356165,
+        "version_id": "cb18698883f58a12b78d5037bf722aec",
+        "signature": "9bfb47670fd4308bfc495e2d026063ca5b757121",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:45Z",
+        "tags": [],
+        "bytes": 65266,
+        "type": "upload",
+        "etag": "c5e9f3d9cc4fa49431f56fdcd12ab1be",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356165/vinted/default-offers/xrsmmbf0k2lt5dkoouw1.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356165/vinted/default-offers/xrsmmbf0k2lt5dkoouw1.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "tz8vjgkubhzywjnqjecv",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "c9e174379f700a7084cd75e2772b0ae4",
+        "public_id": "vinted/default-offers/xmbgb4veu9ku9lq69vow",
+        "version": 1705356166,
+        "version_id": "aa23f5445e1b6503587f5763482279aa",
+        "signature": "f1b021e277c9e7f37c3c2fdca039ca00efef2a63",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:46Z",
+        "tags": [],
+        "bytes": 92596,
+        "type": "upload",
+        "etag": "c9838b293d75803378538801f1274146",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356166/vinted/default-offers/xmbgb4veu9ku9lq69vow.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356166/vinted/default-offers/xmbgb4veu9ku9lq69vow.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "rk0wuukqbz2dqwgwih6m",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c8"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:43.445Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab881475db473f8d91fb"
+    },
+    "product_name": "Sweat Sandro",
+    "product_description": "taille 1\n100% coton",
+    "product_price": 45,
+    "product_details": [
+      {
+        "MARQUE": "SANDRO"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "NOIR"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "116ae576b79b85aac63aa23e7458d5cc",
+      "public_id": "vinted/default-offers/rcpxxoc87c66ktvkddf3",
+      "version": 1705356167,
+      "version_id": "7f1fe77ee6049fdf42a3326c639925a9",
+      "signature": "f2ab01333f050f176e99425d262762918c2b631d",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:47Z",
+      "tags": [],
+      "bytes": 141839,
+      "type": "upload",
+      "etag": "132157ed422227ee3b7a455ab48a2022",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356167/vinted/default-offers/rcpxxoc87c66ktvkddf3.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356167/vinted/default-offers/rcpxxoc87c66ktvkddf3.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "c1chsrapkolkvxekxoyj",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "59eedbe802d7e346d5e50b1ca66140d7",
+        "public_id": "vinted/default-offers/r8o5n5v5evfmcaefdnfm",
+        "version": 1705356168,
+        "version_id": "1cdcf6526f471839b8bb1060f4c8e19f",
+        "signature": "9a4264790252b734f157511d25404100b0f1d06f",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:48Z",
+        "tags": [],
+        "bytes": 141839,
+        "type": "upload",
+        "etag": "132157ed422227ee3b7a455ab48a2022",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356168/vinted/default-offers/r8o5n5v5evfmcaefdnfm.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356168/vinted/default-offers/r8o5n5v5evfmcaefdnfm.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ocyy1j5cat1182zoowcn",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "2fbffa5b3cdd81f4d3a3fe980f2f5964",
+        "public_id": "vinted/default-offers/x0lzaq6tjm6zgdjgdqbd",
+        "version": 1705356169,
+        "version_id": "6f27a6b46d6fa660487f1dbcb91ec4ae",
+        "signature": "f6b709fa6720109e32a377218f54066695bd3bde",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:49Z",
+        "tags": [],
+        "bytes": 184330,
+        "type": "upload",
+        "etag": "4c6e164517038846b0f43c547a59e1d0",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356169/vinted/default-offers/x0lzaq6tjm6zgdjgdqbd.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356169/vinted/default-offers/x0lzaq6tjm6zgdjgdqbd.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "cxlyrazjyuch0iiq9bkf",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "e0031da479e410c188cbd088c8f4e2d7",
+        "public_id": "vinted/default-offers/kzve966bhhtj67djf4ob",
+        "version": 1705356170,
+        "version_id": "9ed9505bcd2bf6a535cc85c1efcdfca0",
+        "signature": "1b731f8ca193b0b1c2971806684cf3c37e272eea",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:50Z",
+        "tags": [],
+        "bytes": 150356,
+        "type": "upload",
+        "etag": "9d93d6606402b7e34542ae5dced6cf24",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356170/vinted/default-offers/kzve966bhhtj67djf4ob.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356170/vinted/default-offers/kzve966bhhtj67djf4ob.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "paimipuaynczg8qkwyql",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "8fc8912d3b0d7320e1ee780cfad7d9e6",
+        "public_id": "vinted/default-offers/spzmu8kvuqy2oecqqcxi",
+        "version": 1705356171,
+        "version_id": "5e102f81f9448833276b5c74f4331e52",
+        "signature": "1a13471cc00327504fb573afb14a3a5706a5d3f3",
+        "width": 800,
+        "height": 600,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:51Z",
+        "tags": [],
+        "bytes": 143581,
+        "type": "upload",
+        "etag": "41413c140c41d791d45e7c8383d6e304",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356171/vinted/default-offers/spzmu8kvuqy2oecqqcxi.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356171/vinted/default-offers/spzmu8kvuqy2oecqqcxi.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "ou8pqnunpzpprpgrspaf",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00d0"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:48.122Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65a5ab8d1475db473f8d91fd"
+    },
+    "product_name": "Pull DVF Diane Von Furstenberg",
+    "product_description": "en laine mérinos et soie\nporté mais très bien entretenu\ntaille S",
+    "product_price": 40,
+    "product_details": [
+      {
+        "MARQUE": "DVF DIANE VON FURSTENBERG"
+      },
+      {
+        "TAILLE": "S / 36 / 8"
+      },
+      {
+        "ÉTAT": "TRÈS BON ÉTAT"
+      },
+      {
+        "COULEUR": "MARINE"
+      },
+      {
+        "EMPLACEMENT": "PARIS, FRANCE"
+      }
+    ],
+    "product_image": {
+      "asset_id": "047ae5003a1881e894e2544028d60810",
+      "public_id": "vinted/default-offers/xsyhlyh91cemtbkzxy19",
+      "version": 1705356172,
+      "version_id": "57cf04bd14d6ead6935942c7d99e37c4",
+      "signature": "097dcec1bd3af5b0e6bd8d7151c6f6cdfa95d311",
+      "width": 600,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2024-01-15T22:02:52Z",
+      "tags": [],
+      "bytes": 170350,
+      "type": "upload",
+      "etag": "32670a2b26e7120367a3e369027ffb31",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356172/vinted/default-offers/xsyhlyh91cemtbkzxy19.jpg",
+      "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356172/vinted/default-offers/xsyhlyh91cemtbkzxy19.jpg",
+      "folder": "vinted/default-offers",
+      "original_filename": "oaojdgb1aevcwuopfdte",
+      "api_key": "243386784467338"
+    },
+    "product_pictures": [
+      {
+        "asset_id": "924904b215f3c3c0c71994c64acdad7b",
+        "public_id": "vinted/default-offers/qt6xiwph2bborcrmqqbq",
+        "version": 1705356173,
+        "version_id": "bfe078929622ecb0ca7cc3a43f384b50",
+        "signature": "1c40ab3e30f5457a6a1375fe0c29c7d12fc94f8a",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:53Z",
+        "tags": [],
+        "bytes": 170350,
+        "type": "upload",
+        "etag": "32670a2b26e7120367a3e369027ffb31",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356173/vinted/default-offers/qt6xiwph2bborcrmqqbq.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356173/vinted/default-offers/qt6xiwph2bborcrmqqbq.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "qdwcifjqcpdfnw68kt8v",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "9609feaef6717637fcfd49c27c0f25d2",
+        "public_id": "vinted/default-offers/csil8mz1qpmgtt6ugg6z",
+        "version": 1705356174,
+        "version_id": "bda696b6787adb754fd1fd00ba11d404",
+        "signature": "262aa7d0a9e52ebdf4cfb39c1cebe28b9a9a6b0f",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:54Z",
+        "tags": [],
+        "bytes": 248284,
+        "type": "upload",
+        "etag": "13d3b67c0fea169abf63b11d03b42d52",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356174/vinted/default-offers/csil8mz1qpmgtt6ugg6z.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356174/vinted/default-offers/csil8mz1qpmgtt6ugg6z.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "iq8jbt7ufeejalo1xci9",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "2bc863394f9603412106129911bb21c0",
+        "public_id": "vinted/default-offers/ct6nitn6oi4jff1wnc4q",
+        "version": 1705356175,
+        "version_id": "c668c51f141041c4c5c7103597ac2717",
+        "signature": "18ed79add996bccc05b4f567ab84ca92d708ccea",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:55Z",
+        "tags": [],
+        "bytes": 255900,
+        "type": "upload",
+        "etag": "6336b4da4d3df3254440f55b7ff94089",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356175/vinted/default-offers/ct6nitn6oi4jff1wnc4q.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356175/vinted/default-offers/ct6nitn6oi4jff1wnc4q.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "gjcw6sly9hdthahz9nsg",
+        "api_key": "243386784467338"
+      },
+      {
+        "asset_id": "b10a6e63c5265a2e8345f0e79b9dfaf8",
+        "public_id": "vinted/default-offers/m2s8zafm94ftxnva4myf",
+        "version": 1705356176,
+        "version_id": "18569094e1fe2896941db2654eda687b",
+        "signature": "2b613b8fdbef47282228fa3008e7690495c86809",
+        "width": 600,
+        "height": 800,
+        "format": "jpg",
+        "resource_type": "image",
+        "created_at": "2024-01-15T22:02:56Z",
+        "tags": [],
+        "bytes": 101733,
+        "type": "upload",
+        "etag": "4894f79e24937ef9e3a888645e58c49b",
+        "placeholder": false,
+        "url": "http://res.cloudinary.com/drhdqhrbn/image/upload/v1705356176/vinted/default-offers/m2s8zafm94ftxnva4myf.jpg",
+        "secure_url": "https://res.cloudinary.com/drhdqhrbn/image/upload/v1705356176/vinted/default-offers/m2s8zafm94ftxnva4myf.jpg",
+        "folder": "vinted/default-offers",
+        "original_filename": "b5h0xj2s0w8q61cob4uu",
+        "api_key": "243386784467338"
+      }
+    ],
+    "owner": {
+      "$oid": "65a588e91e749075dc6d00c2"
+    },
+    "product_date": {
+      "$date": "2024-01-15T22:02:53.089Z"
+    },
+    "__v": 0
+  }
+]

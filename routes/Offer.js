@@ -1,7 +1,7 @@
 const express = require("express");
 const fileUpload = require("express-fileupload");
 const router = express.Router();
-
+const offers = require("../offers.json");
 // import de middleware
 
 const isAuthenticated = require("../middlewares/isAthentificated");
@@ -10,6 +10,7 @@ const cloudinary = require("cloudinary").v2; // import de cloudinay
 const convertToBase64 = require("../fonctions/convertToBase64");
 //import de modeles
 const Offer = require("../models/Offer");
+const User = require("../models/User");
 
 // ajout d'annonces
 router.post(
@@ -20,24 +21,36 @@ router.post(
     try {
       const transformedPicture = convertToBase64(req.files.picture); //tranfo de l'image en string pour cloudinary
       // requête a cloudinary pour stocker l'image
-      const pic = await cloudinary.uploader.upload(transformedPicture);
-      const { marque, taille, condition, couleur, emplacement } = req.body;
+      const pic = await cloudinary.uploader.upload(transformedPicture, {
+        folder: "vinted/offers",
+      });
+      const {
+        size,
+        title,
+        price,
+        description,
+        color,
+        city,
+        condition,
+        brand,
+        exchange,
+      } = req.body;
       const newOffer = new Offer({
-        product_name: req.body.name,
-        product_description: req.body.description,
-        product_price: req.body.price,
+        product_name: title,
+        product_description: description,
+        product_price: price,
         product_details: [
-          { Marque: marque },
-          { Taile: taille },
-          { Condition: condition },
-          { Couleur: couleur },
-          { Emplacement: emplacement },
+          { MARQUE: brand },
+          { TAILLE: size },
+          { ÉTAT: condition },
+          { COULEUR: color },
+          { EMPLACEMENT: city },
         ],
         owner: req.user,
-        product_image: pic.secure_url,
+        product_image: pic,
+        product_pictures: [pic],
       });
       await newOffer.save();
-      await newOffer.populate("owner", "account");
 
       res.json(newOffer);
     } catch (error) {
@@ -92,10 +105,10 @@ router.get("/offers", async (req, res) => {
 
     // Je vais chercher mes offres
     const offers = await Offer.find(filter)
+      .populate("owner", "account _id")
       .sort(sortFilter)
-      .limit(5)
-      .skip(skip)
-      .populate("owner", "account _id");
+
+      .skip(skip);
 
     // Je regarde combien d'offres corespondent à mes recherches
     const numberOfOffers = await Offer.countDocuments(filter);
@@ -105,7 +118,7 @@ router.get("/offers", async (req, res) => {
     res.status(500).json({ message: error.message });
   }
 });
-router.get("/offers/:id", async (req, res) => {
+router.get("/offer/:id", async (req, res) => {
   try {
     const offer = await Offer.findById(req.params.id).populate(
       "owner",
@@ -116,5 +129,53 @@ router.get("/offers/:id", async (req, res) => {
     res.status(500).json({ message: error.message });
   }
 });
+
+router.post(
+  `/reset-offers/${process.env.RESET}`,
+  fileUpload(),
+  async (req, res) => {
+    try {
+      const users = await User.find();
+      await Offer.deleteMany({});
+      await cloudinary.api.delete_resources_by_prefix("vinted/offers");
+      for (let i = 0; i < offers.length; i++) {
+        const pic = await cloudinary.uploader.upload(
+          offers[i].product_image.secure_url,
+          {
+            folder: "vinted/offers",
+          }
+        );
+
+        const newOffer = new Offer({
+          product_name: offers[i].product_name,
+          product_description: offers[i].product_description,
+          product_price: offers[i].product_price,
+          product_details: offers[i].product_details,
+          owner: users[Math.floor(Math.random() * users.length)],
+
+          product_image: pic,
+          product_pictures: [],
+        });
+        let allProduct_pictures = [];
+        if (offers[i].product_pictures.length) {
+          for (let j = 0; j < offers[i].product_pictures.length; j++) {
+            const multipic = await cloudinary.uploader.upload(
+              offers[i].product_pictures[j].secure_url,
+              { folder: "vinted/offers" }
+            );
+            allProduct_pictures.push(multipic);
+          }
+        }
+        newOffer.product_pictures = allProduct_pictures;
+
+        await newOffer.save();
+      }
+
+      res.json({ message: "offers created" });
+    } catch (error) {
+      res.status(500).json({ message: error.message });
+    }
+  }
+);
 
 module.exports = router;

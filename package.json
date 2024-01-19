@@ -22,5 +22,6 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.6.2",
     "uid2": "^1.0.0"
-  }
+  },
+  "devDependencies": {}
 }

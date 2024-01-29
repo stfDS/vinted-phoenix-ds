@@ -61,7 +61,7 @@ router.post(
 
 router.get("/offers", async (req, res) => {
   try {
-    const { title, priceMin, priceMax, sort, page } = req.query;
+    const { title, priceMin, priceMax, sort, page, skip } = req.query;
 
     // Je crée un objet que je donerai en argument au find
     const filter = {};
@@ -95,19 +95,11 @@ router.get("/offers", async (req, res) => {
       sortFilter.product_price = "asc";
     }
 
-    let pageToSend = 1;
-    if (page) {
-      pageToSend = page;
-    }
-
-    // Je calcule skip en fonction du query page que j'ai reçu
-    const skip = (pageToSend - 1) * 5;
-
     // Je vais chercher mes offres
     const offers = await Offer.find(filter)
+      .limit(10)
       .populate("owner", "account _id")
       .sort(sortFilter)
-
       .skip(skip);
 
     // Je regarde combien d'offres corespondent à mes recherches
@@ -152,7 +144,6 @@ router.post(
           product_price: offers[i].product_price,
           product_details: offers[i].product_details,
           owner: users[Math.floor(Math.random() * users.length)],
-
           product_image: pic,
           product_pictures: [],
         });

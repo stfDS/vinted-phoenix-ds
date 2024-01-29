@@ -35,10 +35,12 @@ cloudinary.config({
 //import des fichiers contenant les routes
 const userRoutes = require("./routes/User");
 const offerRoutes = require("./routes/Offer");
+const paymentRoutes = require("./routes/Payment");
 
 // Je demande à mon serveur d'utiliser les routes que j'ai importées
 app.use(userRoutes);
 app.use(offerRoutes);
+app.use(paymentRoutes);
 
 app.all("*", (req, res) => {
   res.status(404).json({ message: "This route does not exist" });
